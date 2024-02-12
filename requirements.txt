@@ -1,0 +1,2 @@
+pytube==10.9.2
+whisper==0.0.8
