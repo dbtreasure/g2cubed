@@ -1,0 +1,1028 @@
+[
+    {
+        "start": 0.008488964346349746,
+        "end": 5.933786078098473,
+        "speaker": "SPEAKER_02",
+        "transcript": " I can absolutely see sometime over the next four quarters, we're going to hit a zone of disillusionment."
+    },
+    {
+        "start": 6.137521222410866,
+        "end": 13.998302207130731,
+        "speaker": "SPEAKER_02",
+        "transcript": " because everybody's pig piled in here. They think it's all happening now. It's gonna take a little bit longer, just like the internet did, just like cloud did."
+    },
+    {
+        "start": 22.33446519524618,
+        "end": 26.08658743633277,
+        "speaker": "SPEAKER_02",
+        "transcript": " BG. BG. Squared."
+    },
+    {
+        "start": 26.68081494057725,
+        "end": 27.750424448217316,
+        "speaker": "SPEAKER_02",
+        "transcript": " Bill, we made it to episode 26."
+    },
+    {
+        "start": 27.988115449915114,
+        "end": 75.0509337860781,
+        "speaker": "SPEAKER_01",
+        "transcript": " We did. Aaron, I'm super excited you decided to join us. I've known you for a while and I've heard other people talk about you. And there's two things I just really love. One, you always have an independent point of view and you're not afraid to state it, which is not true for everyone, especially people in the CEO slot. But more importantly, people refer to you as an old soul. Now, I looked that word up. It's actually, it's not derogatory at all. It doesn't even mean you're old. It means you're wise beyond your years. Now, I know you're not 40 yet, so you're two decades short of me. So I'm not calling you old, but I do think people look up to you, respect you, think of you as a mentor in the Valley. And so we'd love to hear what's on your mind and what you're thinking about."
+    },
+    {
+        "start": 75.3904923599321,
+        "end": 84.03225806451613,
+        "speaker": "SPEAKER_03",
+        "transcript": " I appreciate that. I think actually I have more gray hair than either of you guys. So I think I'm going to stay. That's what happens when you're in a sauna."
+    },
+    {
+        "start": 82.35144312393888,
+        "end": 85.81494057724959,
+        "speaker": "SPEAKER_02",
+        "transcript": " That's what happens when you're in a software company."
+    },
+    {
+        "start": 86.44312393887947,
+        "end": 101.26485568760611,
+        "speaker": "SPEAKER_03",
+        "transcript": " They did not tell me this when I got started. So I wish this would have been on the label. But yeah, no, I'm super excited to be here. Obviously, you know, a ton of stuff happening in the industry right now. And I'm excited to dive into whatever you guys want to talk about."
+    },
+    {
+        "start": 101.5025466893039,
+        "end": 120.87436332767402,
+        "speaker": "SPEAKER_02",
+        "transcript": " We have to kick off with software, right? Yeah. You're one of the thought leaders in the space. And certainly we know you well, and most people in Silicon Valley know you well. But maybe just level set, you know, quick reminder for everybody. What does Box do? What inspired you to get it started? And then how it's evolving, you know, as you guys exit Zerp."
+    },
+    {
+        "start": 121.1629881154499,
+        "end": 122.99660441426147,
+        "speaker": "SPEAKER_02",
+        "transcript": " Yeah, I'm"
+    },
+    {
+        "start": 122.99660441426147,
+        "end": 236.96943972835317,
+        "speaker": "SPEAKER_03",
+        "transcript": " Actually, the Zerp thing, I mean, you know, I know there's a lot of Zerp stuff going on, but we actually never really even had that much of a Zerp benefit. I can certainly get into the different areas. There was about a three-year period where we raised a ton of capital and we burned it. And we did have a little bit of Zerp benefit, but it was actually like on paper exactly the right thing to do at that point. I got diluted a ton in the process as a result, but it was actually like strategically the most important thing to be doing. But history of the company super quickly and kind of what we do. So we built a platform that helps companies manage their most important data, their financial documents, their marketing materials, their contracts, their strategy, you know, content, anything that can turn into a piece of content we manage and store and secure. We have about 115,000 customers, 70% of the Fortune 500. And we started the company with a really simple premise. This was in 2004, 2005 when we got the idea. It was like right at the start where like you could put data in the cloud. It wasn't called the cloud then. We did like crazy bridge rounds and all this stuff. I think we pitched Bill like four times at that point. Handily got rejected, you know, probably appropriate, probably appropriately. And or maybe it was Peter Fenton. So but we can blame it on him. And and then pivoted to the enterprise and then just got super lucky, which was there was this hyper wave of cloud with AWS, iPhone and then iPad. And what happened was everybody's legacy technology no longer worked in this area. And so we were able to kind of ride that wave where we just had a better, cheaper, faster, more secure platform than what else was on the market. And and then that was sort of the period where we just we just poured the fuel on the on the fire on hiring sales reps, hiring engineers, building out a platform and then scaling up to basically where we are today. So that, you know."
+    },
+    {
+        "start": 237.25806451612905,
+        "end": 238.9049235993209,
+        "speaker": "SPEAKER_03",
+        "transcript": " 15 years of history in a couple seconds."
+    },
+    {
+        "start": 239.38030560271648,
+        "end": 293.9983022071308,
+        "speaker": "SPEAKER_01",
+        "transcript": " One thing I'd love to talk about, especially with you here, Aaron, is software multiples. And so you've lived through, you know, a lot of different, you know, spots on the curve. And, you know, I've always said that Silicon Valley has the crudest kind of least intelligent view of valuation. They always rush to price to revenue because it's easy and because, quite frankly, it's easier to be optimistic. And so and then the other thing that happens in Silicon Valley, all founders kind of tie themselves to a single number. So 10 times revenue or something. And Brad brought Brad has some data. And, you know, on the first slide, I think the average multiple for a SaaS company is is now six, which is actually not that bad. Yeah, but that's great. But even to say the average is is misleading because the dispersion is so great."
+    },
+    {
+        "start": 293.9983022071308,
+        "end": 401.2308998302208,
+        "speaker": "SPEAKER_03",
+        "transcript": " I mean, you guys have done more content and thought leadership on this than probably any two people in the world. Not all software companies are created equal. Not all technology companies are created equal. I think we clearly have been through a period, you know, probably due to just the influx of capital. Maybe this is the Zerp element, Brad, that you're kind of referring to is like, if you're like one click or two clicks removed from Sand Hill Road, and Sand Hill's equally to probably blame at certain points, you're sort of like, oh, tech enabled everything should all get a 6 or 10x revenue multiple when the underlying economics of this business could be literally 100x difference. You could have like a 5 or 10% margin company versus a 90% margin, 95% margin company. But yet the outside capital inflow is treating those as exactly the same revenue multiple, which is obviously diabolically crazy. Our own journey has been a little bit really simple because we've always sort of traded somewhere between like $4. We've never had the crazy high multiple. We never, you know, we haven't also been totally sort of forgotten about at any point. And I think that's a result of, you know, we've always had basically between 70% and 80% gross margin, somewhere in the 100% to 120% net retention rate. And so the economics kind of always work out that, okay, you kind of know the underlying contours of the business model. But yeah, I mean, I think we've been for too long treated all software and all technology indiscriminately as, as sort of, you know, like it should be an 80% gross margin company, you know, with a, with a, you know, a triple digit net retention rate. And that's just not the case. So, I mean, I kind of almost flip it back to you guys on like, you know, how do you think, do we come back to forgetting about the differences or is this now a much more sort of normal environment that sustains?"
+    },
+    {
+        "start": 401.2648556876061,
+        "end": 462.1816638370119,
+        "speaker": "SPEAKER_02",
+        "transcript": " I think that really is the critical question. We have a few more charts here. To your point, if you pull up this next chart, the blue line represents the multiple of revenue. You know, here we are actually looking at this growth adjusted. And you can see that, you know, we had this major spike during the period of 20 and 21, right? So this is normalizing for growth. We fell all the way back down to this 10-year average, and now we're above it, you know, again, on a growth-adjusted basis. If you go to the next slide, you know, we said, okay, let's look at it from a free cash flow multiple perspective, Aaron. And what you've seen here is that a lot of companies like Box have said during this period of 2021, whoa, we got to focus on profitability, not so much on growth, because we may not raise that next round of financing. So everybody got a lot more profitable. So on a free cash flow basis, you know, the multiples are actually trending right around that 10-year average. You see this next slide, which I think points out really well."
+    },
+    {
+        "start": 462.70797962648555,
+        "end": 497.6485568760611,
+        "speaker": "SPEAKER_02",
+        "transcript": " This is the median free cash flow margin of the same basket of software companies. So you see these companies where, you know, remember, you remember back in 2015, it's hard to raise capital if you're a software company. You know, certainly in 13 and 14, it was. So everybody had to fund themselves. Then we entered this period again, you know, around Zerp where everybody said, oh, I guess it's just growth at all costs. And who cares about profitability? And now we're seeing the return to that. But the final chart, at least at least on this bit that I thought would be interesting. You know, everybody talks about the rule of 40."
+    },
+    {
+        "start": 498.1409168081494,
+        "end": 552.572156196944,
+        "speaker": "SPEAKER_02",
+        "transcript": " So this is a dispersion. This is a scatterplot just of all the software companies, you know, against that rule of 40. You know, and you see where, you know, Box, you know, stands on that currently. You know, like, you know, just to just to calibrate, you have one of the highest free cash flow margins, I think, you know, in the software universe, around 29 percent. But currently are kind of that mid single digit growth rate. And I think this is the point that Bill talks about that I'm super interested in, because you have to deal with the animal instincts of the market. And there are certain phases of the market where they're valuing growth really highly and certain phases of the market where they're valuing profitability really highly. It sounds like you just kind of, you know, ignored Zerp a bit, didn't get caught up in this. But when you looked around, right, Frank Slootman said to me, probably in 2021, most software companies in Silicon Valley are walking dead and they don't even know it."
+    },
+    {
+        "start": 552.7589134125637,
+        "end": 564.3378607809848,
+        "speaker": "SPEAKER_02",
+        "transcript": " When you looked around in 20 and 21 and look around today, how do you think your fellow CEOs and founders are balancing that profitability versus growth tradeoff?"
+    },
+    {
+        "start": 564.9151103565364,
+        "end": 632.623089983022,
+        "speaker": "SPEAKER_03",
+        "transcript": " A lot to unpack here. So first of all, I mean, empirically, the data is showing that most public company CEOs have dealt with this relatively well. They have sort of responded to the crisis. And, you know, Brad, especially, obviously, you put out great, great, you know, content that I think has catalyzed that across a number of CEOs as well. And I think there's been a clear wake up call to, you know, let's just say, you know, my contemporary group of, you know, 2010 onward SaaS companies, where, you know, we benefited from relatively cheap capital, you know, relatively high valuations, we could use that capital to, again, grow at all costs. I would, you know, if I represent, you know, probably many of the names on this group, I think that was the exactly right economic decision at the time, there was sort of a market share war, you were you were acquiring customers that maybe had a sort of a five or 10 year, you know, kind of lifetime value curve association. You know, of course, you're, you know, you're, you know, you're likely to have a lot of market share, but you're probably the one that's associated with them, maybe even more. And so, of course, you want to gobble up as much market share as humanly possible. There's a lot of"
+    },
+    {
+        "start": 632.0118845500849,
+        "end": 635.4753820033957,
+        "speaker": "SPEAKER_01",
+        "transcript": " That's what you were referring to earlier, Aaron, when you said doing it."
+    },
+    {
+        "start": 634.7113752122241,
+        "end": 636.0016977928692,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, about doing the right"
+    },
+    {
+        "start": 636.0016977928692,
+        "end": 637.0713073005093,
+        "speaker": "SPEAKER_01",
+        "transcript": " thing at the time."
+    },
+    {
+        "start": 637.0713073005093,
+        "end": 649.0577249575551,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, I think I just wish I could have negotiated maybe slightly better terms from a dilution standpoint. But there's little I would have done dramatically different in terms of putting our foot on the gas. Strategy is a good go-ahead."
+    },
+    {
+        "start": 649.6179966044142,
+        "end": 765.8828522920203,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, like with the perfect benefit of hindsight, there's there's some things in maybe demand gen that were unprofitable that we'd like to have not done. There are some decisions like, like, you know, it just to all the founders out there, like, there are lots of little things and feel free to call me like, like you can just you can actually have better terms of your of your billings with customers that brings in more cash flow up front, which means you raise less money. Like, like all of these very boring things actually just mean you can be more capital efficient and still grow at the same rate. And, you know, we had we had a fantastic board, they were pushing us and governing us appropriately on these things. But there's lots of little, little tiny, you know, single decisions that can be the difference of of an extra five or 10% dilution in some cases. And, and, you know, if I could go back, I maybe would be incrementally more thoughtful on a bunch of those. But the underlying element of grow at all costs, get market share, you know, get to 100,000 customers, I think was pretty important. And I think so is true for the Slack and Okta and Zooms of the world. Now, some of those names. You know, sort of, I would just would, you know, mostly blame Wall Street. Some of those names got, got, you know, so hyper accelerated into the future on on their valuations, you know, way outside, you know, what the market was actually going to going to be able to, to actually support. And so then then that's why you have this, you know, crazy volatility of multiples, you know, versus either revenue or free cash flow. And, and then now, obviously, and, you know, I think companies sort of invested, you know, maybe as a result of, of, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you, you know, you, you know, you know, you, you know, from Wall Street and, and then now are obviously pulling back. But I, I think that from a public company standpoint, I think the message is clear. Everybody understands. I think the private market probably still a little bit different. Cause you can do this under the covers. You don't have, you're not, you're not going to get judged on a quarterly basis on, you know, how much have you reduced your expenses? And, you know, there's probably less risk of getting a letter from Brad you know, in the, in those kinds of environments. So that is a huge risk these days."
+    },
+    {
+        "start": 765.8828522920203,
+        "end": 767.5127334465196,
+        "speaker": "SPEAKER_02",
+        "transcript": " Come on. Come on."
+    },
+    {
+        "start": 768.7181663837011,
+        "end": 808.276740237691,
+        "speaker": "SPEAKER_03",
+        "transcript": " But but ultimately, so I think I think what we have is probably, you know, dozens, maybe hundreds of companies where they do have they probably could not file an S1 today, you know, with with their current economics. But they might actually be able to either grow into their numbers or they can do some of these changes behind the scenes and then ultimately have a bit more of a of a, you know, pristine set of financials when they when they finally go public. So I think I think we've been afforded the amount of time, partly because of the wave, you know, partly because of some kind of soft landing in the economy where like there's going to be a lot more successful outcomes here than I think we would have probably thought a year or two ago."
+    },
+    {
+        "start": 808.9219015280137,
+        "end": 823.5568760611206,
+        "speaker": "SPEAKER_01",
+        "transcript": " Hey, Aaron, a quick question for you. Obviously, there are a lot of software companies in the Valley. Based on what you've been through, if you were advising them on what metrics matter most, what's at the top of the list for them to pay attention to internally?"
+    },
+    {
+        "start": 823.8455008488963,
+        "end": 939.9915110356537,
+        "speaker": "SPEAKER_03",
+        "transcript": " The there's probably a few that are just like literally the underlying business model economics. Like I'm a big believer in gross margin. Your gross margin will ultimately determine your operating margin. There's almost no way that you can you can kind of make those two, you know, kind of get out of sync. And so if you're if you're subsidizing something or, you know, or in just such a commodity business and you're, you know, 40, 50, 60 percent gross margin, like there's just like no way you're going to have an operating margin. It looks like a software company. Understanding your gross margin, managing to gross margin, I think is super important. You know, all forms of LTV CAC are probably good. I don't know what the latest, you know, make, you know, everybody every two years is a new term in the industry that is used. But like something that just shows that you can acquire a customer profitably and whether the payback is a year or two years or three years almost doesn't matter as much as as do you do, you know, ultimately generate a long a long term, you know, sticky customer. I think cash flow is super important. I've definitely like I've gotten religion on cash flow. And I think companies getting the cash flow sooner is a is a really good move. I think it pushes the business to be super focused. There was a lot of, again, kind of sloppiness around the edges that we had in our in our hyper growth years that if we if we maybe had had cash flow as a more top of mind metric, we probably could have executed the same results. But around the margin, we would have been just doubling down the things that were working, the incremental international region that was sort of like, you know, we were just betting on we probably would have waited to invest in. And and then ultimately, again, you know, burn less cash, gotten to the same point. So I think cash flow is, you know, I definitely encourage founders to raise less than than I would have five or 10 years ago and focus more on on, you know, self self-sustaining business models."
+    },
+    {
+        "start": 939.9915110356537,
+        "end": 970.7385398981323,
+        "speaker": "SPEAKER_01",
+        "transcript": " The comment you made earlier about managing your cash flow, and I presume you're meaning the same thing on gross margin management. I've just found very few companies in the Valley pay attention to this. Collections is another one that's in this area. So a company will be at $70 million, $80 million, and they don't have any good processes around collections. And so their DSOs are just slipping out. They could be way sooner, and they're just not doing the work."
+    },
+    {
+        "start": 970.7385398981323,
+        "end": 991.6044142614601,
+        "speaker": "SPEAKER_03",
+        "transcript": " I mean, you guys should rally to get collections people to get paid way more or something. So there are some of these functions that are so high leverage that if you just nail it, the deal desk legal team who's negotiating the contract terms, I mean, these things are like, they literally are trajectory defining in your cash flow."
+    },
+    {
+        "start": 991.6723259762309,
+        "end": 997.7843803056028,
+        "speaker": "SPEAKER_01",
+        "transcript": " Earlier in the podcast, you mentioned that dollar a couple of times in a row. How important is that?"
+    },
+    {
+        "start": 999.0067911714771,
+        "end": 1021.1460101867572,
+        "speaker": "SPEAKER_03",
+        "transcript": " incredibly important. You can make any business model work if it's 90 or 100 or 110. But there's no question that if you can be... In our best years, in the hyper growth year, we were 130, 140, 150. That comes down at some point. But anything... I mean, you guys have all the math on this, but just as high of a number as possible."
+    },
+    {
+        "start": 1020.6196943972836,
+        "end": 1023.5229202037351,
+        "speaker": "SPEAKER_02",
+        "transcript": " You know, one of the things you said earlier, I mean,"
+    },
+    {
+        "start": 1023.8285229202038,
+        "end": 1026.1714770797962,
+        "speaker": "SPEAKER_02",
+        "transcript": " There's no doubt Silicon Valley has"
+    },
+    {
+        "start": 1026.5449915110357,
+        "end": 1027.5636672325977,
+        "speaker": "SPEAKER_02",
+        "transcript": " contributed"
+    },
+    {
+        "start": 1027.76740237691,
+        "end": 1034.677419354839,
+        "speaker": "SPEAKER_02",
+        "transcript": " I think to the confusion here, right? And one of the things that, you know, the rules of thumb that we've talked about everybody-"
+    },
+    {
+        "start": 1033.981324278438,
+        "end": 1038.2427843803057,
+        "speaker": "SPEAKER_03",
+        "transcript": " Wait, who are you blaming? No, I'm saying the"
+    },
+    {
+        "start": 1036.4940577249577,
+        "end": 1111.8081494057724,
+        "speaker": "SPEAKER_02",
+        "transcript": " No, I'm saying the investors have contributed, right? And at the end of the day, you know, like Bill has this aphorism that, you know, venture capital ultimately follows the public markets, right? And founders follow venture capital. And the reality is that part of the reason Bill and I, I think, are such advocates for getting into the public market sooner as a founder, whether, you know, like Benioff did and Bezos did and so many others, is because it exacts a bit of a discipline. But Bessemer came out with an analysis last week. We have a chart on this I want to pull up called Rule of X, right? And I would love to see us get rid of Rule of 40 and start talking about Rule of X. Because what Rule of X does is it acknowledges something that all investors know to be true, which is growth and margin is not treated equal, right? And so, you know, for everybody, you know, who may not be as familiar with Rule of 40, it's this idea that if you have a 20% free cash flow margin and a 20% growth rate, then you're at a Rule of 40. Right? And I think in the case of Box, Aaron, you know, if you take your, let's call it 20, 30% free cash flow margin and, you know, and 5% growth rate even, you know, that would be a, you know, a 35%, you know, 35 on the Rule of 40. Right."
+    },
+    {
+        "start": 1112.3514431239391,
+        "end": 1155.050933786078,
+        "speaker": "SPEAKER_02",
+        "transcript": " What this chart shows is that, you know, again, during the ZERP period, right, growth was a huge multiplier. Like that's all people cared about. But if you look at it over time, the average has been two to three. And I asked my team to actually plot the regression on this now just so I could see what today are we valuing the most. And that's this next chart, which basically shows growth is being valued at about three times, right, in the rule of 40 calculation. You know, what margin is being valued at. So I think one of the things I would like to see change in the nomenclature from the investment community in Silicon Valley is that we get over this enslavement to rule of 40. At the end of the day, you said it."
+    },
+    {
+        "start": 1155.4753820033957,
+        "end": 1169.6179966044142,
+        "speaker": "SPEAKER_02",
+        "transcript": " For a public market investor, when I look at Snowflake or I look at Palo Alto Networks or I look at Azure, I'm looking at what their free cash flow is going to be in 2025. I'm applying a multiple to that and I'm discounting back to where we are today."
+    },
+    {
+        "start": 1170.212224108659,
+        "end": 1188.0730050933785,
+        "speaker": "SPEAKER_02",
+        "transcript": " whether your rule of 40 or a multiple of revenue, those are shorthands for getting at the multiple of free cash flow. And so I'm just curious, you know, does this make, you know, when you see this, this rule of X, I assume it's instinctive to you that you get, you know, how this changes over time."
+    },
+    {
+        "start": 1188.7691001697794,
+        "end": 1277.3599320882854,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, I mean, A, 100%. B, I would love to move on from this sort of random combination of two metrics that doesn't tell you a full story. I guess the question would be, in this model, if you have a 40% growth company at exactly 0% or whatever, it doesn't have to be 40, but 0% cash flow and whatever the growth rate is, how do you use your judgment to decide when will that company be able to actually produce the cash flow? And do the underlying economics sort of support that? And so then you don't have sort of these money pit burning companies getting valued in the same way as the snowflake, let's say, or a workday or whatever, who you kind of deeply understand it's going to be a 30% or 40% margin company at some kind of point in the future. So you have to have some way to kind of normalize for that. Because again, not all growth rates are changeable. They're created equal as well. And I don't exactly know how you do that other than just individual company analysis to just think through, what are the pricing pressure dynamics in this industry going to be? What part of this particular product gets commoditized? Where is there going to be longstanding moat, for lack of a better term? And unfortunately, none of these models sort of capture that when you look at a regression line. So I don't know how to solve that. No, no, no."
+    },
+    {
+        "start": 1276.816638370119,
+        "end": 1294.4397283531412,
+        "speaker": "SPEAKER_02",
+        "transcript": " I mean, literally at the peak of the madness, people were saying, oh, you know, you can do software investing just using quant analysis, right? Just say, you know, slap 100x on whatever the ARR is. And, you know, this is super easy. And, you know, I remember back in 2013, when we invested in Snowflake, you know,"
+    },
+    {
+        "start": 1295.1867572156198,
+        "end": 1331.7062818336162,
+        "speaker": "SPEAKER_02",
+        "transcript": " Nobody was investing in software. And part of the view at the time was, you know, like we were very focused on database software because it was the only software that we had really seen scale to a billion dollars in revenue. And a lot of this application software would hit a ceiling, right? Somewhere around 70 million, 80 million, 90 million, and never got to the margins that were promised. But, you know, you could look at, you know, Teradata or Natiza or, you know, or IBM or Microsoft. The database market was always one of those markets that was incredibly large and that could get to these mature margins."
+    },
+    {
+        "start": 1332.3344651952461,
+        "end": 1416.2903225806454,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, I mean, I mean, this obviously makes your business actually have differentiation in it. But like, you know, I would see either IPO filings or, you know, analyst reports of, OK, you have a company growing at, you know, 30, 40 percent or something. And and then you'd apply the same the same revenue multiple on that company as as, let's say, a snowflake or whatnot. But but one has a 90 percent retention rate or something, which means which means that sales and marketing is required forever to refuel the customer base because of the churn rate of that product. And it means you'll never actually converge on you'll never actually converge on on cash flow at the level of a company with, you know, let's say a 110 retention rate or whatnot. Because because the moment you you stop spending on sales and marketing, that customer will drop. The company will drive their customers and they won't have any cash flow. So but like but like from afar, they were like plotting on the regression line, you know, like they should be funded or, you know, like the valuation should be a snowflake. So that's I don't know how how, you know, I mean, the market eventually kind of gets that right on a per name or category basis. But but I do think like if you don't really understand the dynamics of of these these categories, it gets easy to to sort of not understand, like, well, how will this company actually produce real cash flow in the future? In three or five or 10 years out."
+    },
+    {
+        "start": 1416.3242784380304,
+        "end": 1455.1867572156198,
+        "speaker": "SPEAKER_01",
+        "transcript": " Yes. Hey, one quick question for you, Aaron. I've noticed over many years of investing in startups that a lot of times the product market fit of the first product will get you, especially a really good product market fit, will get you to 100 million or 200 million or some really large level. But then start to peter out and then you have to figure out other growth drivers. And so I imagine, you know, just based at the scale you're at, you've had that kind of thought process, like how do we drive growth for a more mature startup or a company that's a little bit further along? Any hints for everybody? Yeah."
+    },
+    {
+        "start": 1455.5093378607812,
+        "end": 1559.3463497453313,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, it's so case by case, because it all depends on probably how big your first category is. And, and so, you know, as a founder, you always think your first category is going to be just insanely massive. And so, so you can kind of run the clock on that. And we were really, I think we actually paid a lot of attention to this around kind of three, four, 500 million in revenue. We said, Okay, what's our next act? And, and I think McKinsey, you know, this, this analysis, like 10 years ago, around, you know, around when your second act has to happen in your growth curve, or else, or else you basically just Peter out. So we got like, pretty obsessed with that. And, and, and so our second act was really our platform business, which turned us from just being an application that you bought, you know, at an end user license to then you buy actually, like our platform utilization. And that that that certainly worked, that gave us a boost that has had different characteristics than than just getting us to the billion as quickly as we wanted. So we had to get into security and workflow. So so it's like, we're like, we're beyond like second act. And it's more like we've got multiple, you know, kind of additional capabilities that we monetize. But you do have to there, there's definitely like a finessing to your, your product strategy, your go to market strategy, like, we used to be like, super skew oriented, and then we had to rebundle things. And so your whole company is sort of, you know, riding these, these shifts in, in some kind of, you know, kind of concerted way. And it's interesting, like, part of this, you know, part of this as like a founder, and just your own kind of like, acknowledgement of where you are in the journey is sort of saying, okay, like, there's two kinds of companies, maybe out there, let's just like two kinds of successful companies out there."
+    },
+    {
+        "start": 1559.923599320883,
+        "end": 1666.1205432937181,
+        "speaker": "SPEAKER_03",
+        "transcript": " forgetting forgetting you know the ones that don't work or get acquired there's wouldn't be great if everybody was google or meta that would be great like you just grow 50 a year forever um and then you know 10 or 20 a year but then and that's that's fantastic like i'd love to have a trillion dollar company um i wouldn't love to be in you know congress like zuck is but but other than that um and then there's and that but then there's like actually like like extremely good valuable companies that you're you just are building a real business and and like you don't like you don't think about them as google or meta or whatnot but they they produce you know an insane amount of value for the world for their customers for their their cultures and employees and so we started studying the auto desks and adobes of the world which is like okay well what's a compounding model where you're growing 10 or 20 and your your free cash flow is 30 to 40 and you just do that for like literally decades um uh you know there was a company we studied a ton that that you know it almost further proves the point um in the past couple weeks ansys um we studied these guys a year or two ago and it's you know a 30 40 billion dollar i mean 30 billion dollar company um they just own their space of of cad you know simulation industrial you know software maybe you know two billion dollar revenue you know plus or minus 40 30 40 percent margin like that's a fantastic business like everybody would love a 20 to 30 billion dollar market cap company you know you know and and they don't have to deal with the the sort of daily you know changes of wall street of okay we're valuing growth at this percent more or whatnot they're just like let's just build a very profitable business like dominate our market and and scale that and i think that you know i think it'd be great if if the valley also got you know more enthralled by those types of names i don't"
+    },
+    {
+        "start": 1665.8488964346352,
+        "end": 1678.2088285229202,
+        "speaker": "SPEAKER_01",
+        "transcript": " I love that idea of studying other businesses. That's another thing that I think people don't do enough of, but going out and getting the peer data, looking at how others did it, finding those experts."
+    },
+    {
+        "start": 1678.2088285229202,
+        "end": 1680.212224108659,
+        "speaker": "SPEAKER_03",
+        "transcript": " Have you looked at like Cadence?"
+    },
+    {
+        "start": 1681.3157894736842,
+        "end": 1721.0101867572157,
+        "speaker": "SPEAKER_03",
+        "transcript": " Not deeply. Okay. Of course, Brad has. But like, we should all be talking about cadence more. Like, we should be talking about cadence. We should be talking about synopsis. We should be talking about ansys. Like, these are crazy. Like, literally, like 15 years ago, cadence was, I'm going to make up a number. So please just like do all your charts or whatever. Like, I don't know, three, $5 billion company. It's a 50, $60 billion company today. And just dominate a vertical and just keep building and just do it profitably. And I think if we got as enamored by that as building meta, you know, first of all, we'd have a lot less stress all the time. But I think we'd just be building, you know, more attractive and valuable companies."
+    },
+    {
+        "start": 1721.0101867572157,
+        "end": 1750.1103565365024,
+        "speaker": "SPEAKER_01",
+        "transcript": " Speaking of dominating and meta, several of the large companies reported last week, Brad. And if I think about the public markets, like right prior to 2024, everybody's talking about Magnificent 7, Own 2023. And everybody's talking about cost reduction in the Valley is something you're very familiar with from your back and forth with meta. So what did we learn this week? And how does it affect the playing field?"
+    },
+    {
+        "start": 1750.195246179966,
+        "end": 1779.4482173174874,
+        "speaker": "SPEAKER_02",
+        "transcript": " Well, yeah, I mean, so you and I talked about last week, you know, 2023, like all these things were up a lot, but it was really reversion to the mean. I mean, we started 2024 still trading below kind of the 10 year average. That's how that's how debilitating 22 was. Right. But I said this year, like I thought this year would be more normalized. Like I think return expectations, you know, are more in kind of that 15 to 25 range, not, you know, the return to target of 80 like we had at the start of 23."
+    },
+    {
+        "start": 1779.821731748727,
+        "end": 1797.3429541595924,
+        "speaker": "SPEAKER_02",
+        "transcript": " But, you know, I went into Q1 kind of holding my breath a little bit to see, right, what in fact, whether or not we're seeing any of this acceleration. So, you know, we had Google, we had Meta, we had, you know, Amazon and Microsoft report last week. I had a couple, a few big takeaways."
+    },
+    {
+        "start": 1797.9711375212223,
+        "end": 1814.1171477079797,
+        "speaker": "SPEAKER_02",
+        "transcript": " The first was, you know, the Mag 7 is really not the Mag 7. It may be the Mag 4 right now, right? Because we have, you know, a few of these companies, Apple's flat on the year. Tesla's down on the year. Google's basically flat on the year. You know, and you have four companies that are, you know, that are-"
+    },
+    {
+        "start": 1813.4719864176573,
+        "end": 1821.7062818336162,
+        "speaker": "SPEAKER_01",
+        "transcript": " We could have gotten chat GBT to do a really nice illustration of that dynamic. The seven with three of them falling behind."
+    },
+    {
+        "start": 1821.7062818336162,
+        "end": 1895.8488964346352,
+        "speaker": "SPEAKER_02",
+        "transcript": " I think we still can, I guess. We'll insert that post back. You know, but last week, what we saw at Amedda, and I think this is really significant, you know, obviously has a big beat and raise stocks up over 30 percent year to date. They're clearly benefiting. Right. They are at the tip of the AI spear. Their video engagement was up 25 percent year over year, which is just like hard to get your head around. There's only one way to do that. That's through the application of AI. We're seeing their monetization also up a lot. You know, but here's the thing that I think is so impressive. Right. They nearly tripled their earnings per employee. Right there. Their headcount in Q3 of 22 was 87,000. This quarter, they reported 67,000. So they're doing this while they're like they really believe that flatter is faster. And I think there are a lot of people who are cutting 9 percent or 12 percent or this or that. You know, and it's not a fundamental change to the ethos of the business. It's just a little bit more CYA, you know. And I think that, you know, what you see with Mark is a real commitment to transform that business. And it's showing up in, you know, in the results. And, you know, I think I tweeted something about."
+    },
+    {
+        "start": 1896.426146010187,
+        "end": 1920.0594227504243,
+        "speaker": "SPEAKER_02",
+        "transcript": " you know, Reality Labs is still losing, I think, $20 billion. And if you look at that on a per share number, okay, and that's about $6 a share, you know, in losses for the company due to Reality Labs. And if you apply a 20x multiple to that, that's about negative $120 a share that's being attributed to the valuation of Meta as a result of their fake."
+    },
+    {
+        "start": 1919.4482173174874,
+        "end": 1930.2971137521222,
+        "speaker": "SPEAKER_01",
+        "transcript": " Hold on, hold on. I object. That's only true if you put zero future free cash flow from that unit in your analysis. Yeah, no. Which maybe you're doing."
+    },
+    {
+        "start": 1930.5178268251275,
+        "end": 1949.0067911714773,
+        "speaker": "SPEAKER_02",
+        "transcript": " Well, I would like to think that everybody was doing that analysis, Bill, but you and I both know that most sell-side analysts are slapping a 20x multiple on earnings for this company. And that's what suffices for research these days. And I would just say in a consolidated view, that is pretty crazy to me. And Zuck even mentioned on the call that..."
+    },
+    {
+        "start": 1949.9915110356537,
+        "end": 1968.5993208828522,
+        "speaker": "SPEAKER_03",
+        "transcript": " But also, I mean, alternatively, Bill, it's also not crazy because how should you figure out what the actual profit potential is of reality? We have no evidence at the moment of what that looks like. So everything else would just be a made-up number. So I don't know."
+    },
+    {
+        "start": 1967.9032258064517,
+        "end": 1993.6757215619696,
+        "speaker": "SPEAKER_02",
+        "transcript": " But any non-zero, you know, one of the things that Mark said during the call is that the MetAI glasses with Ray-Ban, they sold twice as many as they expected to sell. Okay, I think we're going to have this explosion of AI devices we're going to talk about a little bit later. But he said that was the first clear example of some of this convergence between the work that they're doing in reality labs, right, and what they're doing in the rest of the business. And so, you know, again..."
+    },
+    {
+        "start": 1993.8624787775893,
+        "end": 2018.8709677419356,
+        "speaker": "SPEAKER_02",
+        "transcript": " As an investor, I assign greater than negative $120 a share value to Mark Zuckerberg investing $20 billion a year on something that's in the zip code of AI and augmented reality. The second thing we saw this week, Bill, Google. It was a solid quarter, but the stock is flat to down now on the year."
+    },
+    {
+        "start": 2019.3803056027164,
+        "end": 2051.0950764006793,
+        "speaker": "SPEAKER_02",
+        "transcript": " I think you're seeing increasing concern about the core business, you know, from threats. You and I've talked about this chat GPT perplexity. Just go through the list. You go into any room. Clearly, answer engines are becoming more relevant. When you said, you know, chat GPT could have made the chart. You didn't say Bard could have made the chart or Google could have made the chart. So I would say Google Cloud was pretty uninspired. And I think I don't think they've gotten real on the efficiency and the fitness. You know, I have a slide here. I asked my team to pull together."
+    },
+    {
+        "start": 2051.9269949066215,
+        "end": 2105.9847198641764,
+        "speaker": "SPEAKER_02",
+        "transcript": " This slide plots what they've done on headcount and what that translates into in terms of earnings per employee over the course of those same six quarters. And so Facebook has actually reduced headcount significantly, and their earnings per employee has exploded. And Google, they're fine, but they really just haven't made many changes. Now, if this was just about earnings per employee in the short term, then you see your differential in terms of share price performance right there. I think a much, much bigger issue here is the implications this has for future product development, the implications it has for real focus out of the business. And I just think this flatter is faster is very real. I think that Meta is very focused, and I think that Google is still trying to sort out how to get focused around some of this stuff."
+    },
+    {
+        "start": 2106.460101867572,
+        "end": 2175.0848896434636,
+        "speaker": "SPEAKER_02",
+        "transcript": " And then finally, cloud software. You know, after a year of belt tightening, you know, what we really heard out of Amazon and Azure last week is that kind of core workloads are back to their prior growth rates. Right. So that CFOs are largely through the, you know, the belt tightening on the core. And we saw real evidence, right, of AI workloads beginning to kick in, both at Amazon as well as at Azure. I think Azure, I've got a couple of charts here. You know, that the team threw together. The first is just, you know, you can see the reacceleration on the right hand side in terms of this is all three of the cloud providers put together. So this is their growth, aggregated growth rate. And on the right hand side, you can see you finally saw that turn, that reacceleration. Now, mind you, these things are reaccelerating in the case of AWS from $100 billion run rate. Right. So, like, you know, you're reaccelerating. These are massive growth rates at massive scale. On the left side, what you see is they actually set a record quarter, $15 billion in net new ARR across these three platforms. So."
+    },
+    {
+        "start": 2175.5093378607808,
+        "end": 2194.7792869269947,
+        "speaker": "SPEAKER_02",
+        "transcript": " I think that to me is kind of the real story that came out of the big cloud providers. And one of the questions I think that we now have to answer is, does that read through apply to everybody else in software? Yeah."
+    },
+    {
+        "start": 2195.288624787776,
+        "end": 2226.171477079796,
+        "speaker": "SPEAKER_02",
+        "transcript": " Right. Like, you know, is this something that's unique to the big cloud providers? And then the second question that I had in my mind, you know, was like, when do we just hit the wall on this? Right. You know, I had a friend to say to me the other day, they thought that three years from now that the cloud providers, the revenues would actually be smaller than they are today. Right. Which I which I can't get my head around. When I look at this, you know, I talked to Adam Solipski, who runs AWS, and he said, Brad, this is a multi trillion dollar market."
+    },
+    {
+        "start": 2226.7317487266555,
+        "end": 2228.735144312394,
+        "speaker": "SPEAKER_02",
+        "transcript": " And that does not include AI."
+    },
+    {
+        "start": 2229.753820033956,
+        "end": 2260.2631578947367,
+        "speaker": "SPEAKER_02",
+        "transcript": " OK, so, yeah, $100 billion is a lot, but it's a multi-trillion dollar market and it doesn't include AI. So, Aaron, I can't get back over to you. That's, you know, that's my brain dump on what happened in the public markets this week. But on the software side in particular, you know, were you surprised at these numbers? And how do you think about is this unique to what's going on with the cloud providers? You know, or are you starting, you know, to, you know, hear other software companies talking about how about similar trends?"
+    },
+    {
+        "start": 2261.264855687606,
+        "end": 2380.0084889643463,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah. So first of all, you might want to short your friend's portfolio or do the I've never heard that metric of in three years from now, we're going to be smaller. But that's an interesting take. I, I, I honestly am so done with trying to guess when this thing runs out. Like it is. I think we just have to honest like you basically are just is an uncapped, unknowable total amount of addressable market in this space. There are there are clear differences between the hyperscalers and the rest of software simply because a company can just move their their core data center infrastructure from their, you know, their current colo and server providers to the cloud. And, you know, some software providers will make money in that transition. But that's that's basically 90 percent hyperscaler benefit. And so that doesn't sort of all show up in the rest of software and SaaS in the same way. So there's some kind of tale of two cities of of of these massive. Infrastructure migration where the hyperscalers are just, you know, again, an uncapped market opportunity for for these guys. And then there's a lot of surrounding services like you would imagine that as this goes up, the snowflakes and confluence and and whatnot also also see some benefit because there's lots of data services that you need around that. But but yeah, we're not seeing any slowdown of of companies that we talk to just continuing to be moving to the cloud. I get the fortune of talking to, I don't know, you know, dozens of. You know, dozens of. You know, dozens of. You know, dozens of. CIOs a month and and there's nobody that is sort of like done with their cloud journey. There's nobody even at 90 percent. And this is across every every sector of the economy. So we're still weirdly relatively early. And then to Adam's point, like, yeah, like that's even pre-AI. AI is just in the experimentation phase for all intents and purposes in in the enterprise right now. And so we don't even have the AI TAM, you know, quite understood from a software infrastructure standpoint yet."
+    },
+    {
+        "start": 2380.0084889643463,
+        "end": 2391.9609507640066,
+        "speaker": "SPEAKER_01",
+        "transcript": " Brad made the comment that in his view from checking around that CIOs had moved past their kind of shrink and reassessment. Do you agree with that?"
+    },
+    {
+        "start": 2392.5551782682514,
+        "end": 2398.1239388794565,
+        "speaker": "SPEAKER_03",
+        "transcript": " Um, I wouldn't want anybody to like trade on my, uh, on my like qualitative anecdotes, but, um."
+    },
+    {
+        "start": 2398.1239388794565,
+        "end": 2403.4719864176573,
+        "speaker": "SPEAKER_02",
+        "transcript": " Yes, you're right, Aaron and Bill. As a reminder to everybody, just our opinions, not investment advice."
+    },
+    {
+        "start": 2403.692699490662,
+        "end": 2480.0084889643463,
+        "speaker": "SPEAKER_03",
+        "transcript": " But, you know, there's there's like there's very clearly this interrelated system of like like you are like listening to Powell's commentary and then deciding at your management committee meeting, you know, should we should we lean into budget? You know, and so so, you know, if if we're only hearing doom and gloom 18 months ago, inflation is exploding. Interest rates are about to go crazy. Massive layoffs happening in tech. That's like a scary environment to then be investing, you know, and leading into. Whether it's a software company or an insurance provider in Minneapolis, like like we're all kind of thinking about this the same way. Fast forward to today, you know, OK, inflation coming down, clearly interest rates either at the peak or starting to come down at some point. Like I feel like, OK, we could invest a bit more, which means that that that incremental application we wanted to launch that had some data consumption as a part of it. You know, the the extra focus of the engineers working on optimization versus innovation. You can kind of tune that knob a little bit. And so I think that's the that's the sort of qualitative not captured in the, you know, econometrics, you know, kind of elements of this that are actually happening now in businesses, which gives me a little bit of, you know, incremental confidence that that means CIOs are going to be putting on on more growth initiatives going forward."
+    },
+    {
+        "start": 2480.0594227504243,
+        "end": 2493.0475382003397,
+        "speaker": "SPEAKER_02",
+        "transcript": " Hey, Aaron, you just hit on something so important. Perhaps one of the greatest sources of alpha for me and certainly my mentors in this business over a long period of time is this idea of positive and negative reflexivity."
+    },
+    {
+        "start": 2493.6247877758915,
+        "end": 2497.818336162988,
+        "speaker": "SPEAKER_02",
+        "transcript": " that in fact, when there is all doom and gloom,"
+    },
+    {
+        "start": 2498.1748726655346,
+        "end": 2501.6893039049237,
+        "speaker": "SPEAKER_02",
+        "transcript": " that causes people to behave in a certain way."
+    },
+    {
+        "start": 2501.7572156196943,
+        "end": 2534.8132427843802,
+        "speaker": "SPEAKER_02",
+        "transcript": " Right. And when confidence begins, you know, like as we started entering this year, as confidence is turning and the second derivative on on interest rates is down, et cetera, it leads to the positive reflexivity on the other side. So it actually leads to acceleration because people feel comfortable in doing that. And you need to invest ahead of that. Right. And oftentimes to really get ahead of it, you have to be buying when there is, you know, the proverbial blood in the streets, when there is that doom and gloom. And people say it can't ever you know, it can't ever be different."
+    },
+    {
+        "start": 2535.2716468590834,
+        "end": 2580.9422750424446,
+        "speaker": "SPEAKER_03",
+        "transcript": " Well, yeah, yes. I mean, I can only imagine that there is some timing element to that because you have to know when you've reached the bottom of the doom and gloom. But that aside, which I don't I don't I don't actually want to like veer this politically at all. But like as just like a bookmark, this is I get very confused why we are so passionate about changing the government right now. Like they're like they're nailing it. Like why? Like why? Like why pull out a Jenga piece out of nowhere and see what what changes. But again, you know, different different podcasts. But like like we we are so lucky right now that we somehow landed this thing. And and sure, there's, you know, a bunch of of incremental issues on the margin that we're dealing with. But like, wow, we should like be, you know, you know, not not taking this for granted too much."
+    },
+    {
+        "start": 2580.9932088285227,
+        "end": 2617.376910016978,
+        "speaker": "SPEAKER_02",
+        "transcript": " So that's a software take. I know you have opinions on this other one as well, right? There's, you know, there's a spicy battle out there about, you know, Google and 10 Blue Links and, you know, and what happens next. And, you know, I tweeted over the weekend, you know, this isn't a question about like knowing, right? Larry and Sergey always knew that 10 Blue Links was like a waypoint in route to answers, right? Like anybody who was in the business of information retrieval, or they've been around artificial intelligence and out in front of everybody else. And so the idea here is that, you know,"
+    },
+    {
+        "start": 2618.39558573854,
+        "end": 2655.9847198641764,
+        "speaker": "SPEAKER_02",
+        "transcript": " I think it's not a matter of will. I don't think it's a matter of knowing, right? I just think it's this innovator's dilemma, right, that Google faces, which is that 99% of their profits or 110% of their profits comes from an advertising model around 10 blue links that is just at its core seems somewhat at odds with what Perplexity is doing, with what ChatGPT is doing, the age of answers. And so I would just love to, you know, kick it around for a second. How, if you're running Google today, right, and you're faced with this innovator's dilemma around this, like, what should they be doing here?"
+    },
+    {
+        "start": 2656.799660441426,
+        "end": 2768.599320882852,
+        "speaker": "SPEAKER_03",
+        "transcript": " Well above my pay grade, fortunately. I am just a lowly enterprise software person. But, you know, so as a reminder, obviously, for everybody, like Innovator's Dilemma is about business model, you know, difficulties. And we always think it's a technology problem. It's always about your business model doesn't make the new thing attractive to you. And so you avoid doing it until you get disrupted. You know, I might take after, you know, think about this a little bit, maybe not enough, is I don't think there is a totally 100% classic Innovator's Dilemma issue with the move to AI with Google. I think on the other end of this, the business model could be as good, if not better. And Brad, you think about this a lot of like, if you actually had Google literally tell you the thing to buy, and they got a transaction on that, it would actually be a similar business model. They would just get you to that answer even faster. And you'd still transact and you still do commerce. And they are still the distribution engine for all of the people that need to advertise somewhere. Like, everybody has to find a customer. And so you still need an interface to get my product into that customer's hands. And so if Google's AI is doing that better than the 10 Blue Link model, that's great. I actually think that the more complicated thing is probably more of a product management. User behavior experience issue, which is how do I navigate my customer base? How do I navigate my user base to this model in a way where in the process, I don't get totally hammered by that journey? And I don't know how to do that. Like, like Bart is clearly their way of experimenting to do that. But like, you know, their big problem is like, you go to a search box, you type in a search, and they give you a lot of results. And perplexity and chat to BT are just totally different product interfaces. And so they can't clearly make the Google homepage just do that. And so they can't clearly make the Google homepage just do that. So they have to kind of."
+    },
+    {
+        "start": 2767.9371816638372,
+        "end": 2789.0067911714773,
+        "speaker": "SPEAKER_02",
+        "transcript": " Doesn't that rhyme in your ear? I mean, 1999, Google was just a different interface relative to the portals that existed at the time. And you can say, why the hell didn't Yahoo just copy Google? Because they had an existing business model that required them to sell real estate on this big portal."
+    },
+    {
+        "start": 2789.0067911714773,
+        "end": 2840.993208828523,
+        "speaker": "SPEAKER_03",
+        "transcript": " Probably you're 90% more right. But there was also a literal tech differentiation that Google had. And Yahoo did not have PageRank. And so Google just literally gave you better results. And so the user base migrated. I mean, short of maybe some internal kind of political issues, like Google's technology is probably not in the way of this issue. And so now it's actually like as a user. Now, I will leave like one big X factor, which is just like maybe our brains are the limiter here. And like ChatGPT just owns that little slot in our brain of you ask a question, get an answer. And like now we have like a whole like brain rewiring problem that Google is going to have to contend with. I don't know. I mean, like that's above the, you know, that's above what a PM on the Google search homepage can do. So this one is, you know, pretty complicated. Bill, were you raising your hand?"
+    },
+    {
+        "start": 2840.993208828523,
+        "end": 2852.130730050934,
+        "speaker": "SPEAKER_01",
+        "transcript": " I didn't want to interrupt. So for the college game day fans, I'll do a Lee Corso, not so fast. I'll take the other side of this one. I think it's a horrific problem."
+    },
+    {
+        "start": 2852.3005093378606,
+        "end": 2941.7572156196943,
+        "speaker": "SPEAKER_01",
+        "transcript": " Oh, wow. But because one is the user interface is subject to disruption. So the whole idea that I'm going to throw you 10 links, it's really more than 10, right? Because there's four ads on top and four ads on the bottom. And you got to search through and find what you want. I'm a big sports fan. I often search for the roster of a team. That's not even at the top. It's like five links down. I have to find it and get around the ads. So that's one. Two, you already mentioned the business model. Their business model is to throw their customers in a cage match and let them compete with one another to the death. And that drove revenue sky high because it created super optimal payment. And no one wants to see four or five ads. You're not going to get to the same revenue per visit. With a transaction model that you do with the ad model because you already mentioned Cactel TV. People will pay using marketing math 40, 50, 60% of first purchase with a transactional integration. They want to pay 5%. So you have a 10x reduction if you were to partner on a transaction enablement than you do on a marketing lead. And so the customer wants neither of those on the screen. Yeah."
+    },
+    {
+        "start": 2942.1137521222413,
+        "end": 2964.2869269949065,
+        "speaker": "SPEAKER_03",
+        "transcript": " I'm going to push back a little bit. And when I said transaction, it didn't necessarily mean that you turn it into a CPA model, but maybe you do. And I understand the changes in economics there. I guess what I'm saying is that when I do a Chachapiti question of, hey, give me a recipe for this thing, it's actually a gap that they don't then let me go buy the things."
+    },
+    {
+        "start": 2964.2869269949065,
+        "end": 2989.02376910017,
+        "speaker": "SPEAKER_01",
+        "transcript": " Right, but if you were to go buy them, you wouldn't buy them from a marketing model. You'd buy them from a transactional model. Otherwise, you're going to say, I'd like to book a flight to Chicago and get a hotel room. And instead of doing it, the Google AI is going to say, would you like to hear deals from Hotels.com and Expedia and Booking.com? Can I read you through the deals they're offering?"
+    },
+    {
+        "start": 2989.02376910017,
+        "end": 2999.244482173175,
+        "speaker": "SPEAKER_03",
+        "transcript": " Like that's not... Brad, Brad, Brad, you're the expert on this. Why can't Google get $40 for that flight or $30 for that flight instead of the $2 for clicking through to Expedia?"
+    },
+    {
+        "start": 2999.7198641765704,
+        "end": 3018.0220713073004,
+        "speaker": "SPEAKER_02",
+        "transcript": " Well, I think to Bill's point, if you look at the traditional commission models, and I think the iconic example is in travel, the traditional commission model, for example, in hotels is 10%. And let's just say the average daily rate is $100. So they're willing to spend on a commission model $10."
+    },
+    {
+        "start": 3018.0730050933785,
+        "end": 3043.013582342954,
+        "speaker": "SPEAKER_02",
+        "transcript": " But in a marginal advertising model where they're bidding up all the way to their gross profit in order to get that next customer to drive that growth rate. And if you're a startup, you certainly go above it. You may spend 2 or 3x on that individual purchase. It certainly has extracted more rents. But I think the other piece here is..."
+    },
+    {
+        "start": 3044.507640067912,
+        "end": 3069.5331069609506,
+        "speaker": "SPEAKER_02",
+        "transcript": " if we really just telescope way out here, like we are heading to answers and actions, right? And even the people who invented the damn blue link model don't believe that that is where this thing ends. So like, and all I'm saying is the idea that Google can replicate a 99% monopoly and take all of that pool of profits with it into this new world after letting,"
+    },
+    {
+        "start": 3069.7198641765704,
+        "end": 3093.48896434635,
+        "speaker": "SPEAKER_02",
+        "transcript": " chat GPT become the verb, at least at the start for what this new world is. It just, you know, that to me is almost impossible to believe. But the consensus view has continued to be that, you know, they're going to dominate this new thing the way they dominated the world of search. And I just think if they pull that off, I hope I'm a shareholder along the way, that will be one of the greatest jujitsu in the history of capitalism."
+    },
+    {
+        "start": 3093.2342954159594,
+        "end": 3151.842105263158,
+        "speaker": "SPEAKER_01",
+        "transcript": " I'll be remarkably impressed. One last thing. There's one last problem. In addition to everything I brought up, because their core business model is to throw their customers in a cage match, they don't have the culture internally to partner in a friendly win-win way. Every company I've ever had that sat down to do a deal with Google has been shown a contract that you would never, ever, ever, ever consider. And if we're gonna get to a place where I just tell Google my favorite travel site is this, my whatever, they're gonna have to work out a deal that's reasonable on both sides. And I don't think they're capable of it. I don't think they're capable of sitting down and it becomes a cultural problem because if every meeting you have with an external third party, you bring this kind of I'm in charge attitude, getting that out of a company is very, very, very hard."
+    },
+    {
+        "start": 3152.4363327674023,
+        "end": 3155.7640067911716,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, I mean, I see stuff all the time."
+    },
+    {
+        "start": 3156.2393887945673,
+        "end": 3203.981324278438,
+        "speaker": "SPEAKER_03",
+        "transcript": " I know that there's great anecdotes of that problem in tech, but at the end of the day, the entire world is advertising on Google. So they clearly figured out how to partner with the CMO of every company on the planet. And so if our CMO got a call that said, hey, from Google, we can get you more customers when they ask a question about content management software, we're still going to follow where the distribution is at the end of the day. And so that's why I still think it's all... The name of the game is still, can they navigate their customer base to a new user experience paradigm? Obviously, fast enough before... It's the classic, can Amazon become a studio before the studios become Amazon or Apple or whatever. I mean, no, it's just..."
+    },
+    {
+        "start": 3203.251273344652,
+        "end": 3212.23259762309,
+        "speaker": "SPEAKER_01",
+        "transcript": " I mean, the company with the buzz is Perplexity, not even ChatGBT. And so like BART's not in the top two right now."
+    },
+    {
+        "start": 3212.0288624787777,
+        "end": 3229.3803056027164,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, but then you get into a different issue, which is like, obviously, they should just buy these things. And and then, you know, Lena Kahn doesn't let that happen. So so, you know, how do you like, like, if they bought perplexity, call it Google Assistant, like, I don't think we'd be having this conversation in the same way. But they obviously, you know, are bad."
+    },
+    {
+        "start": 3228.2597623089982,
+        "end": 3229.5500848896436,
+        "speaker": "SPEAKER_01",
+        "transcript": " You know, our-"
+    },
+    {
+        "start": 3229.7198641765704,
+        "end": 3233.421052631579,
+        "speaker": "SPEAKER_01",
+        "transcript": " Yeah, which which which is like the Instagram, what's that?"
+    },
+    {
+        "start": 3234.083191850594,
+        "end": 3257.8522920203736,
+        "speaker": "SPEAKER_01",
+        "transcript": " I'm just saying that's like Instagram and WhatsApp, what he's saying, and what Meta did. And so Google's not allowed to do that right now, which is pretty interesting. Yeah, it's totally crazy. Which actually, one last thing, it's similar to Microsoft in the 96, 97 timeframe, where they were in the penalty box and couldn't do those similar things. Yeah."
+    },
+    {
+        "start": 3257.8522920203736,
+        "end": 3333.1663837011884,
+        "speaker": "SPEAKER_02",
+        "transcript": " I would say it's not only the government's not allowing, but you got to remember with Instagram and WhatsApp, it was not they were not facing innovators dilemma. Those deals did not cannibalize their core business in the way that perplexity would cannibalize, at least in part, the core business at Google. Let me shift us forward. You know, you brought up, you know, a subject on on our episode one, Aaron. We talked about, you know, these interesting investments made by one of my partners had called Mang. So investments by Microsoft, Amazon, Nvidia and Google into the big model businesses. Bill suggested, you know, that at a very minimum, that's low quality revenue. But, you know, this credit for investment thing is we've seen historically in the past. It wasn't lost on me that the very next day that the FTC came out. I think we have a tweet on this. It was on Squawk, you know, and said, hey, we're going to look into the nature of these relationships, you know, between, you know, the open eyes and and Microsoft's, et cetera. So, Bill, just to close that one out before we jump into our third time. You know, what do you think the outcome is of this inquiry that, you know, that the FTC announced, you know, which was right in line with some of the things that you were were talking about?"
+    },
+    {
+        "start": 3272.6061120543295,
+        "end": 3273.74363327674,
+        "speaker": "SPEAKER_00",
+        "transcript": " Some of the searches."
+    },
+    {
+        "start": 3333.1663837011884,
+        "end": 3365.8658743633277,
+        "speaker": "SPEAKER_01",
+        "transcript": " My concern, which was really a concern for the industry more than just those players, is that those deals pervert and distort the market. And when that happens, people do things you wouldn't expect. Just like Zerp, all of a sudden competition doesn't look like you would think it would because those are happening. And just real quick, the one thing that I don't think Lena was, she never mentioned accounting or anything like that, but the bright lights, you know, being shined at it might prevent more of those deals in the future, which I think would be healthier for the environment."
+    },
+    {
+        "start": 3366.018675721562,
+        "end": 3404.55857385399,
+        "speaker": "SPEAKER_03",
+        "transcript": " The thing that I actually don't understand for you guys is, so if I'm a big tech company, I have an entirely different incentive structure for these rounds than obviously a venture capitalist. And yet they're pricing these companies. Totally. So that's the distortion effect for either those rounds directly or for everybody else in the space. It's like, yes, X company got a $20 billion valuation from a non-economic actor that does not make your revenue or your multiple have any correlation to that because the acquisition premium or the ultimate cash flow of this company doesn't have any relationship to the credit model that just got a deal done."
+    },
+    {
+        "start": 3404.55857385399,
+        "end": 3451.893039049236,
+        "speaker": "SPEAKER_01",
+        "transcript": " I think it's even trickier because based on what I've read, secondary transactions are kind of expected now in the hiring in that world, that LLM competition world. And if you can't get a financial investor to invest alongside because these are non-cash credits, then you don't have the cash to do the secondaries and you can't keep up. And then that's tricky. And on our last show, Brad talked about why these big companies might have an incentive that's other than ownership at the right price. So that, you know, as you're saying, the valuation is not real. And there's all kinds of problems this can create, especially if you're running the company."
+    },
+    {
+        "start": 3452.1137521222413,
+        "end": 3474.660441426146,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, I think, unfortunately, there's going to be an inevitable, you know, the music will stop at some point on this particular dynamic. Open AI, you know, aside, just because they actually do have the traction, they probably do have the real revenue. Right. But I don't love to see the broadening of this, just from, again, healthiness of this model."
+    },
+    {
+        "start": 3474.9151103565364,
+        "end": 3492.1986417657045,
+        "speaker": "SPEAKER_02",
+        "transcript": " I mean, it's a bill bill referred to it a little bit like the soft bank effect from 20 and 21, where capital was used as a weapon of economic destruction. Capital was the kingmaker and all of this rather than allowing the product and the fundamental performance of the business to go. But I'm going to I'm going to just shift this a little bit there."
+    },
+    {
+        "start": 3492.5042444821734,
+        "end": 3535.288624787776,
+        "speaker": "SPEAKER_02",
+        "transcript": " you know, into, you know, perhaps a little bit broader discussion about AI. You know, you had a tweet that caught my eye where you just said, you know, this is, you know, you've been around for a while. You're a deeply respected technologist. You said, hey, we got this confluence of events going on in the world right now, confluence of technologies that make this in many ways the most extraordinary of times. And so as we dig into AI a little bit with you, maybe a little context for that tweet. And then I would love for you to go inside out, like where are you actually seeing the traction for AI in your business? What are your guys' top three priorities in terms of leveraging AI? And how do you think those reflect the priorities of your peers?"
+    },
+    {
+        "start": 3536.2054329371817,
+        "end": 3579.0067911714773,
+        "speaker": "SPEAKER_03",
+        "transcript": " Sure. Yeah. I mean, I mean, this this tweet specifically was was like was related to a bunch of stuff, including like Vision Pro or whatnot. Just like I just think it's I just think it's an incredibly exciting time, purely like, you know, economics aside to just be building technology. We are literally given these platforms to build on that are doing incredible things that, you know, quite literally a decade or two ago is just not was just not possible. So that's that's like more of an emotional, psychological thing of just like, hey, incredibly exciting time. And as it relates to the opportunities and maybe then specifically, we are we're so so maybe just like three seconds on box and then I'll broaden it. So our what we're doing is we have."
+    },
+    {
+        "start": 3579.414261460102,
+        "end": 3763.9134125636674,
+        "speaker": "SPEAKER_03",
+        "transcript": " hundreds of billions of files that are stored in box. And every single one of those files has more value inside of the file than what currently the customer is getting benefit from. Because you have to open up the file, look at it, read it, watch it to get actual real commercial economic benefit of that content. With AI, you now have little bots that can run around and do things on that content to generate more value for you. You could get a decision in your business faster. You could summarize a contract and accelerate a workflow. You could extract data from something that's unstructured to automate a process that was unautomatable before. So that's why it's incredibly exciting for us. The dynamic right now is I think we have... We are still... Even though we're a year and a quarter into Chachaputee phenomenon, we're still literally in the earliest of days. I think most enterprises right now are just in the experimental period. They are trying to figure out... Where to plug AI into their overall stack. I don't think anybody has fully figured that out commonly across normal corporations. And that means that it's anybody's game right now in terms of the winners and losers of AI. I think I probably prefer incumbents in software on the margin right now, because it's so important to have the customer data in an environment that is already trusted, is already secure. They don't have to move the information back and forth. They often already have the workflow. So if I'm thinking about who wins in CRM AI, it's to me Salesforce as opposed to a startup. ITSM AI, it's ServiceNow versus a startup. That's the quick thing because there's not as much innovators dilemma in the pure software categories. In fact, this is just really an advantage for anybody, again, who has users, data, and workflows. AI is like this dream come true, because now we can just... Literally offer more value to our customers. So that's in the classic incumbent categories. I'm extremely bullish for startups. They're just not going to probably be about disrupting known categories of software. It's probably much more about known categories of the economy. And so I think if we spent the past 20 to 30 years putting software, making it so software is a layer above what humans do, now we're at a point where software will just do what the human did. And that creates a whole new vector of opportunities. And I think the classic way to look at this is figure out which parts of knowledge work can convert into tokens. And then those are the areas where there's new software opportunities that we did not have software for before. And then those are the businesses. So I think there'll be trillions of dollars made in AI. But I think it's going to be in verticals. It's going to be helping augment the people element of the work. It's going to be in verticals. It's going to be helping augment the people element of the work. It's going to be in the infrastructure and the scaffolding around it. I'm a little bit bearish, not bearish, but just like more like..."
+    },
+    {
+        "start": 3764.1850594227503,
+        "end": 3834.9660441426145,
+        "speaker": "SPEAKER_03",
+        "transcript": " on the margin, not as excited about the economics of the actual pure AI model providers. I think it's tough to be in a space where Zuck, you know, any day could just open source the thing that you've been working on for, you know, three or five years. And then all of a sudden, you know, now, you know, there's just this leapfrog moment of technology. And, you know, the thing that I go back to is like, there's rarely been technology, I think we've seen where the actual like, like the thing you're building, the asset you're building, is almost perishable, as a piece of IP, like, like the thing literally, like, can just become obsolete, like a second later, and you can't update it, you don't, like, I can't take, I can't take the obsolete thing and make it a little better, I have to like rerun the training run, and then like do the new model. And so I actually have like converted, you know, CapEx dollars into this like thing. And at any moment, something else could be better than that thing. And I have no, I can't pivot around that, like, I'm stuck with this perishable asset. So then you kind of just say, okay, well, then, then OpenAI, Microsoft, Google, you know, Facebook are basically like where you place the bets on who makes the models, and then everybody else should just be building software, essentially. glutenvolume.com"
+    },
+    {
+        "start": 3835.492359932088,
+        "end": 3855.967741935484,
+        "speaker": "SPEAKER_01",
+        "transcript": " What about internally? I'm curious as someone that runs a large public company, how do you feel about like, what's the right expectation for programmer productivity improvement? Are you measuring it? Do you care? Where in your org are you seeing impact early?"
+    },
+    {
+        "start": 3856.748726655348,
+        "end": 3892.1137521222413,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, so programming, obviously, the first place with Copilot. And I don't know, we have not done a specific measurement internally. I'll walk through the office and see what's on people's screens. And AI is certainly actively being used for EnchatsBT to optimize a code, the code that somebody is working on. How do I change this SQL query to be more efficient? That kind of stuff. Copilot, obviously, for writing code. Obviously, the estimates are, I would probably just agree with the estimates of 30%, 40%, 50%. That's what I know."
+    },
+    {
+        "start": 3891.5704584040745,
+        "end": 3899.9915110356537,
+        "speaker": "SPEAKER_01",
+        "transcript": " That's what I had heard. Druck said 7X yesterday. Anyway, move on. Druck said that? I think he did. Yeah. Okay."
+    },
+    {
+        "start": 3900.7555178268253,
+        "end": 3903.3361629881156,
+        "speaker": "SPEAKER_02",
+        "transcript": " I don't think that was accurate."
+    },
+    {
+        "start": 3900.772495755518,
+        "end": 3902.0797962648558,
+        "speaker": "SPEAKER_01",
+        "transcript": " I don't think so."
+    },
+    {
+        "start": 3904.0662139219016,
+        "end": 3905.390492359932,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah. I like that. Good job."
+    },
+    {
+        "start": 3905.8998302207133,
+        "end": 3932.7928692699493,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, so I'm probably more in the 30 to 50% camp in the best case scenario right now with where we're at. And I think still coding is the number one use case. And I think this actually is an important element of thinking through AI. Coding is still working better than most other use cases. And it's because you basically have a workflow where you're in a text interface that is just linear."
+    },
+    {
+        "start": 3932.8777589134124,
+        "end": 3951.061120543294,
+        "speaker": "SPEAKER_03",
+        "transcript": " where most of the sort of knowledge of the field is all public and open source for the most part and available for training runs. And the next line prediction, you again have the perfect interface for next line prediction. Most knowledge work actually doesn't look like that. Like we want it to. We want to believe."
+    },
+    {
+        "start": 3949.516129032258,
+        "end": 3951.79117147708,
+        "speaker": "SPEAKER_01",
+        "transcript": " We want it to. We want to believe. Timer-structured."
+    },
+    {
+        "start": 3951.8590831918505,
+        "end": 3972.011884550085,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, and so even the legal work, I'm still talking to the client and then comparing something with somebody else. And so this idea that you're going to get a GitHub copilot effect for all forms of knowledge work, at least in the near term, it's way too early to be jumping to that conclusion."
+    },
+    {
+        "start": 3971.4855687606114,
+        "end": 3975.0848896434636,
+        "speaker": "SPEAKER_01",
+        "transcript": " Programming is like a more precise language than language."
+    },
+    {
+        "start": 3975.237691001698,
+        "end": 4030.7385398981323,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, and literally, it's automatically testable instantly. Right, right. And so you just don't have those characteristics for a lot of other work. So I think it's going to take longer than maybe we'd like for AI to sort of show up in the average knowledge workers sort of day at the level that GitHub Copilot did. If you could automatically write all of my emails faster, I still would have to read each one. I still have to process, like, do I agree with that thing that is being said? I still need to understand the substance of the content from the sender. I can't have AI just sort of jump in and replace me. So I think we're probably a little bit early in the general knowledge work sort of transformation. And the things I'm much more excited about are where can you take a process where a person does that kind of rote task over and over again, and we can swap that out with AI and improve that workflow. And that's where the opportunity is and certainly what we're spending our time on."
+    },
+    {
+        "start": 4031.1290322580644,
+        "end": 4036.69779286927,
+        "speaker": "SPEAKER_02",
+        "transcript": " I mean, it reminds me so much, I saw this chart this week, maybe we can pull up for Morgan Stanley."
+    },
+    {
+        "start": 4036.986417657046,
+        "end": 4074.4906621392192,
+        "speaker": "SPEAKER_02",
+        "transcript": " And it shows how we systematically underestimate the size of super cycles right over a reasonable period of time. When I think about what's going on here, of course, they show they went back and did some math against initial estimates and said, you know, super cycles are about 40 percent underestimated at the start. So, you know, the initial forecast for the PC or the initial forecast for Internet, 152 million users in 2000 ended up being 361 million users. When I think about what's going to happen here, I can absolutely see sometime over the next four quarters that."
+    },
+    {
+        "start": 4074.8132427843802,
+        "end": 4076.850594227504,
+        "speaker": "SPEAKER_02",
+        "transcript": " We're going to hit a zone of disillusionment."
+    },
+    {
+        "start": 4077.478777589134,
+        "end": 4141.672325976231,
+        "speaker": "SPEAKER_02",
+        "transcript": " Because everybody's pig piled in here. They think it's all happening now. It's going to take a little bit longer, just like the internet did, just like cloud did, right, to hit its stride. When that happens, those who were, you know, who are always against the super cycle, call it a fad, everything else, they're going to say, see, I told you so. You know, it's not really happening the way you all thought it was. You made bad bets, et cetera. But my sense here is, you know, and I've said the AI is going to be bigger than the internet itself in terms of impact on economic productivity. But I do think sometime in the next several quarters, we have this zone of disillusionment set in a little bit. It doesn't happen quite as fast as we all thought. But then when we look back three to five years from now, you know, you had a tweet about, you know, the dramatic reduction in costs of these models. So you can imagine chat GPT five or six, and it's costing us 90%, you know, percent less than today. I don't even think we can get our heads around how that's going to change everything."
+    },
+    {
+        "start": 4141.672325976231,
+        "end": 4170.212224108658,
+        "speaker": "SPEAKER_03",
+        "transcript": " Well, so most of, and just to underscore this, most, and again, we're like, we're deep in sort of the use cases of, I have a really long contract. I want to read the contract. I want to automatically present data from that contract with AI. And so think about like just all of those things, you know, an invoice, a contract, a presentation. Most of the things that customers are asking us for, what they want to do with their content."
+    },
+    {
+        "start": 4170.806451612903,
+        "end": 4172.979626485569,
+        "speaker": "SPEAKER_03",
+        "transcript": " is 100% possible."
+    },
+    {
+        "start": 4173.5908319185055,
+        "end": 4222.657045840408,
+        "speaker": "SPEAKER_03",
+        "transcript": " And just there's a curve, which is, is AI cheap enough to make that use case be worth transforming to a software-based way of doing that versus a human-based way? And so that's like exactly what you want in a market because you know the costs are going to come down. And then you'll reach that convergence point. So we're increasingly not limited by the architecture of the technology. And now we're just limited by like, can Jensen make these things cheaper? Or can the engineers at OpenAI have more efficient model algorithms? And that's great because then you can just ride that curve. Like we are way more inundated with use cases that companies want to do with AI today than simply just like the scalability of these architectures from a cost standpoint."
+    },
+    {
+        "start": 4223.132427843802,
+        "end": 4280.297113752122,
+        "speaker": "SPEAKER_01",
+        "transcript": " Brad, I'll give you one other reason why I think you might be right about the trough of disillusionment. You know, I saw this great interview once with Spielberg when he was talking about Jaws. And he said, you know, I didn't show the shark until like 75% of the way through this thing. And the reason he said he did that was because humans' imagination is much grander than anything I could possibly put on the screen. And, you know, we had AI before LLMs. Like I heard Nikesh bring this up once. And so but in our modern lexicon, we think of AI as chat GPT and what the LLM did. That's what really shocked us. And I just worry that the one, two, three thing has caused people to think there's this linear extrapolation. I do think the text has kind of been solved and everything's kind of been scanned. And I think the next step's not."
+    },
+    {
+        "start": 4280.619694397283,
+        "end": 4285.764006791171,
+        "speaker": "SPEAKER_01",
+        "transcript": " linear or super linear. I think it's going to be a little bit of a find."
+    },
+    {
+        "start": 4286.0186757215615,
+        "end": 4356.816638370119,
+        "speaker": "SPEAKER_03",
+        "transcript": " Well, I think that, I mean, the growth of cloud as just a shape of the curve is somewhat instructive because it at least closely approximates like the change management dynamic that is required to change your infrastructure architecture. So obviously not a perfect analogy, but like anybody in 06, 07, when we saw AWS, we're like, oh, shit, like this is clearly the future. I would literally, I would never want to go and manage servers again. But now here we are, it's 2024 and you have the biggest growth rates, you know, from a dollar standpoint still happening. And so why is it taking 18 years for that still to occur? It's because there's somebody in a data center in Minneapolis that still has to just move the data. They have to move the services into the cloud. And so the equivalent of this is we'll talk to a customer and they say, you know, we'll show them the demo of AI can now read that invoice. And and do what the human was doing instantly and much more cost effectively. But it's still going to take a year or two to do the change management of the workflow itself to swap in AI for where the where the human was. And so now multiple."
+    },
+    {
+        "start": 4356.816638370119,
+        "end": 4360.670628183361,
+        "speaker": "SPEAKER_01",
+        "transcript": " It should have been an XML file and not an invoice. Yeah, exactly."
+    },
+    {
+        "start": 4360.161290322581,
+        "end": 4372.164685908319,
+        "speaker": "SPEAKER_03",
+        "transcript": " Yeah, exactly. Well, believe me, I'm glad that it's actually a document still. And we're still in business because most of these things still are documents and not XML files. Fair enough."
+    },
+    {
+        "start": 4371.79117147708,
+        "end": 4461.315789473685,
+        "speaker": "SPEAKER_01",
+        "transcript": " I still think the press, like they watch the movie Her, they expect ChatGPT7 to be this all-knowing, all-loving, you know, personality that they can talk to. And this does spin to one thing I would be hyper-optimistic about. I do think this memory issue is a big, big deal, at least on the consumer side. So none of the major contenders today can remember who you are because it would require them. And I mean, remember over five years, 10 years to really become a personal assistant kind of thing that Her represented. And it's because you'd have to redo the model for each human. And of course, that makes no sense economically. So it's actually a huge structural problem. There are complaints, you know, in Reddit about character AI on this front. I think all of the people sitting atop these companies know that this is a huge breakthrough opportunity. And the first one that gets to it, I think, could outrun whoever the contender is at that moment in time. Because the things you could do, if it could remember everyone in your contact database, you know, all your emails that you've done, like the thing, the personal productivity an individual could have, if this thing could be that way. And I think most of the press. Thinks it'll be that way tomorrow. And no one's really solved this problem yet. I think it's a huge opportunity."
+    },
+    {
+        "start": 4461.366723259762,
+        "end": 4462.996604414262,
+        "speaker": "SPEAKER_01",
+        "transcript": " Yeah, 100%, right."
+    },
+    {
+        "start": 4462.996604414262,
+        "end": 4474.337860780985,
+        "speaker": "SPEAKER_02",
+        "transcript": " I'm going to move us on to the fourth topic. I mean, we could we have to do a whole show just on that that one that we're just on because it's it's so good. And I'm quite certain, Bill, that what you just talked about."
+    },
+    {
+        "start": 4474.813242784381,
+        "end": 4481.876061120543,
+        "speaker": "SPEAKER_02",
+        "transcript": " a fiduciary, an agent, an assistant that knows me longitudinally, that knows everything about me, like my personal assistant."
+    },
+    {
+        "start": 4482.41935483871,
+        "end": 4530.959252971137,
+        "speaker": "SPEAKER_02",
+        "transcript": " Five years from now, this is cracked, right? The cost curve is going to come down, the security curve, the confidence curve. All those things are going to intersect. And we're going to give a personal assistant in people's pocket to billions of people. And when we think about the broad implications to Apple, to Google, to Meta, et cetera, of this change, right? We haven't seen this scale of change in 25 years, but we'll come back to it. Because, Aaron, you had a tweet that really caught Bill and I's imagination. You know, maybe we can pull it up on immigration. And, you know, like the world is, you know, right now, I think, appropriately objecting to the insanity of illegal immigration and what's going on at the southern border and lots of fights and finger pointing as to why that's going on. But what was interesting about this is you took on the subject of legal immigration."
+    },
+    {
+        "start": 4531.638370118846,
+        "end": 4541.672325976231,
+        "speaker": "SPEAKER_02",
+        "transcript": " And, you know, why don't you explain to us a little bit about what the tweet was about and about this chart? I saw it went a little bit parabolic in terms of in terms of Twitter."
+    },
+    {
+        "start": 4542.2325976230895,
+        "end": 4552.589134125637,
+        "speaker": "SPEAKER_03",
+        "transcript": " Well, unfortunately, Elon wrapped it into the illegal immigration as well. So that is the only reason for the parabolic nature. But my point was \u2013"
+    },
+    {
+        "start": 4551.943972835314,
+        "end": 4554.847198641766,
+        "speaker": "SPEAKER_01",
+        "transcript": " 22 million views, yes."
+    },
+    {
+        "start": 4555.0,
+        "end": 4615.543293718167,
+        "speaker": "SPEAKER_03",
+        "transcript": " Everybody really liked H-1B immigration this day. Actually, the amount of racist responses I got was pretty impressive. So, I mean, it's so simple. It is just the biggest cell phone in economic history. We have the best environment for the smartest people on earth to contribute value. And we are literally doing everything we can to make sure they cannot work here, pay taxes here, and start their next company here. And so, it's just the most offensively illogical thing that I think we have in the country. I put it above all other things that we do that is totally inane. And we are, by the grace of God, Apple was created here. Google was created here. Microsoft was created here. Meta was created here. It is not a given that in 20 years from now, those companies will be created here. So, why not make sure? Why not just seal that and lock that in as a monopoly and get all of that? That talent here. And the thing that is crazy to me..."
+    },
+    {
+        "start": 4615.882852292021,
+        "end": 4620.5178268251275,
+        "speaker": "SPEAKER_03",
+        "transcript": " is that U.S. companies are currently employing"
+    },
+    {
+        "start": 4620.738539898133,
+        "end": 4750.008488964346,
+        "speaker": "SPEAKER_03",
+        "transcript": " all of the people we're talking about moving here, they're just employing them in a different country. And we like we have expanded dramatically in Poland, Facebook, obviously, you know, expanded dramatically in India and UK, like we are employing all of these people. It's just we're not going to get the local community, you know, benefits, we're not going to get the local tax dollar benefits. And then we're certainly when they go off and leave one of our companies, they're going to build a company that is in and native to their, you know, their country, and then and then it's over. And we just have to pray that that is not the next Apple or Google or Microsoft. And otherwise, you just flip the entire, you know, kind of economic environment. And so it's just very frustrating. This is just happens to be a chart of H1B demand and applications, you know, per year, it's actually like, not even that interesting a graph, because if you actually looked at the true demand, if you could measure how many people actually wanted, and were capable and qualified to work in the US, the number would be, you know, five times larger. And again, we are currently employing all these people, this is not going to be a problem. And so we're going to have to, you know, we're going to have to reduce US jobs, that they are employed, there's no way like, like, you know, the kind of responses I always get is like somebody will randomly some troll will be like, you're just, you know, trying to take US jobs. It's like, no, no, no, like, no matter what this person on the other end is going to be employed by by our company, they're just not going to be living in the US and improving our economy. And so it's crazy. And I think that, you know, we I'm a part of a, you know, kind of a tech lobbying kind of group or whatever we, you know, lobby about all the things all the time. And, and so we'll meet with Congress and talk to the senators and, and Congress, you know, people about this. And, and, and what is what's really sad is that, you know, on a one on one basis, everybody right, left, everywhere in between agrees with the issue. And there's just always one thing that's holding it up. It's no, we have to solve the whole immigration package, or we can't give this one, you know, we can't give into this particular deal that we're working on. And so this one little number, in a document, i.e. the quota that we have, you just change that one number, and our whole problem goes away. And nobody's willing to do it. Nobody's willing to just like sign up for that project in Congress to say, I'm going to do it."
+    },
+    {
+        "start": 4750.72156196944,
+        "end": 4756.4091680814945,
+        "speaker": "SPEAKER_01",
+        "transcript": " Brad, do you have the chart of the actual grants that happens each year? It's flat."
+    },
+    {
+        "start": 4756.4091680814945,
+        "end": 4760.857385398982,
+        "speaker": "SPEAKER_03",
+        "transcript": " It's basically 85,000 a year and it's been that way for 20 years."
+    },
+    {
+        "start": 4760.246179966045,
+        "end": 4810.568760611206,
+        "speaker": "SPEAKER_01",
+        "transcript": " And 65K, that's H-1B, and then there's another form. And the process is remarkably bureaucratic. So that's another thing that probably would make the demand higher if it were, as we've proven on the southern border, if you ease the pathway, you create more demand. Yeah, it's tough. I think the biggest thing that we probably lose by not increasing that is this future founder thing that you're talking about. And on one hand, it's kind of impossible to numerate why that could be so huge. But when you look at the legacy of immigrant-founded companies in the Bay Area and the headcount that's now under those companies, it's almost impossible not to believe. And why wouldn't you want that aperture bigger?"
+    },
+    {
+        "start": 4811.247877758913,
+        "end": 4847.546689303905,
+        "speaker": "SPEAKER_03",
+        "transcript": " Well, the only thing I would say is that there's also the argument of, okay, this is just a Silicon Valley thing. I mean, clearly it's not. So we all know it's not. But even if you wanted to prove that it's not, Silicon Valley, we're going to literally run out of real estate and room. We know that. So guess what? If I'm a freaking town in anywhere in the country and I could just be like, well, I can create like 10,000 tech jobs if I just become \u2013 if I'm able to get this amazing talent and they're all going to move here. Like this is totally a countrywide opportunity for us. And we are just \u2013 we're just sitting on this and not doing anything about it. And I think it's insane. So, yeah."
+    },
+    {
+        "start": 4848.0899830220715,
+        "end": 4852.096774193549,
+        "speaker": "SPEAKER_02",
+        "transcript": " You know, this really comes down to the question of whether we have the will"
+    },
+    {
+        "start": 4852.470288624789,
+        "end": 4867.835314091681,
+        "speaker": "SPEAKER_02",
+        "transcript": " right, to increase the quota of legal immigrants. Again, we're talking about legal immigrants who companies want to hire in order to drive our economy. To your point, Aaron, where effectively you're shipping your GDP to Poland."
+    },
+    {
+        "start": 4868.27674023769,
+        "end": 4944.592529711375,
+        "speaker": "SPEAKER_02",
+        "transcript": " That would be U.S. GDP. Instead, it's the GDP of Poland because it's workers in Poland who are doing the work that you can't hire to be done here. And Bill, you make the point about, you know, we may you know, it's hard to enumerate what we won't have started, the counterfactual of the companies that won't be started. But I look at just the acceleration generally, the moment we live in. We just talked about the acceleration around AI. This is not just about economic advantage. This is about national security. This is about national strategic advantage. Right. That we have these things invented here. Right. Again, we're lucky that chat GPT was invented here. The open AI is here. That anthropic is here. But that's not a given. And the best way. And, you know, this has been a source of our national strategic advantage for hundreds of years. Right. And, you know, Bill pinged me this morning and he said, you know, it reminds me of this speech. You know that Reagan gave his last speech in office. And, you know, and maybe to be fair, I found it on the Twitters. But maybe maybe we'll play it here, play it here, and then we'll end with all three of us by just rapping in reaction to the video. Yeah."
+    },
+    {
+        "start": 4947.224108658744,
+        "end": 4950.568760611206,
+        "speaker": "SPEAKER_00",
+        "transcript": " It is that lady who gives us our great and special place in the world."
+    },
+    {
+        "start": 4951.570458404074,
+        "end": 4955.356536502546,
+        "speaker": "SPEAKER_00",
+        "transcript": " For it's the great life force of each generation of new Americans."
+    },
+    {
+        "start": 4955.560271646858,
+        "end": 4957.461799660441,
+        "speaker": "SPEAKER_00",
+        "transcript": " that guarantees that America's triumph"
+    },
+    {
+        "start": 4958.14091680815,
+        "end": 4961.621392190153,
+        "speaker": "SPEAKER_00",
+        "transcript": " shall continue unsurpassed into the next century and beyond."
+    },
+    {
+        "start": 4963.132427843802,
+        "end": 4971.298811544992,
+        "speaker": "SPEAKER_00",
+        "transcript": " Other countries may seek to compete with us, but in one vital area as a beacon of freedom and opportunity that draws the people of the world"
+    },
+    {
+        "start": 4971.808149405773,
+        "end": 4973.132427843802,
+        "speaker": "SPEAKER_00",
+        "transcript": " No country on earth."
+    },
+    {
+        "start": 4975.764006791171,
+        "end": 4978.27674023769,
+        "speaker": "SPEAKER_00",
+        "transcript": " This, I believe, is one of the most important sources"
+    },
+    {
+        "start": 4978.718166383702,
+        "end": 4980.059422750424,
+        "speaker": "SPEAKER_00",
+        "transcript": " of America's greatness."
+    },
+    {
+        "start": 4980.755517826825,
+        "end": 4981.977928692699,
+        "speaker": "SPEAKER_00",
+        "transcript": " We lead the world."
+    },
+    {
+        "start": 4982.758913412565,
+        "end": 4989.380305602717,
+        "speaker": "SPEAKER_00",
+        "transcript": " Because unique among nations, we draw our people, our strength from every country and every corner."
+    },
+    {
+        "start": 4991.740237691001,
+        "end": 5018.242784380305,
+        "speaker": "SPEAKER_02",
+        "transcript": " You know, you can't say it better than that. And, you know, you look at, you know, you look at what it's given us, right? You know, I came of age in 1978 when the Japanese were devastating our auto industry, where the view in the country was that our best days were behind us. I grew up in a place that people referred to as the Rust Belt. We didn't have really venture capital. We, you know, the innovations around technology were just starting, right?"
+    },
+    {
+        "start": 5018.633276740238,
+        "end": 5021.689303904925,
+        "speaker": "SPEAKER_02",
+        "transcript": " And, you know, and so I think about"
+    },
+    {
+        "start": 5022.453310696095,
+        "end": 5083.149405772496,
+        "speaker": "SPEAKER_02",
+        "transcript": " We now have such great global advantage in technology. The only way in which we give way on that is to shoot the golden goose. And part of the equation, the most important part, is the human talent and desire to start the next thing, to invent the next thing. And I think you pointed out something incredibly important, Aaron, which is, yes, we need to solve the illegal immigrant crisis on the southern border. But, you know, we really do need to focus on how we continue to be the place that all the best entrepreneurs on the planet, the best technologists on the planet want to come start the next company. Well, Aaron, thanks for being here. You know, one of the reasons Bill and I wanted to do a pod wasn't just to hear each other, but was really to tap into the business. And I think that's what we're doing today. And I think that's what we're doing today. And I think that's what we're doing today. The big thinkers in Silicon Valley, you know, kicking around with them on occasion. So really appreciate you taking the time and doing this today."
+    },
+    {
+        "start": 5082.249575551783,
+        "end": 5094.881154499151,
+        "speaker": "SPEAKER_03",
+        "transcript": " I look forward to when those people join the pod. So I'll tune in for that one. But thanks for having me. I appreciate it. And good luck on the charts."
+    },
+    {
+        "start": 5102.86078098472,
+        "end": 5105.0,
+        "speaker": "SPEAKER_00",
+        "transcript": " Beijing, Beijing"
+    },
+    {
+        "start": 5105.0,
+        "end": 5106.528013582343,
+        "speaker": "SPEAKER_01",
+        "transcript": " squared"
+    }
+]

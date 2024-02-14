@@ -1,0 +1,386 @@
+[
+    {
+        "term": "Zerp",
+        "snippet": "Actually, the Zerp thing  I mean, I know there's a lot of Zerp stuff going on  But we actually never really even had that much of a Zerp benefit",
+        "definition": "Zerp is a colloquial term often used to refer to zero interest rate policy, a monetary policy where central banks set nominal interest rates at or near zero percent with the intention of stimulating economic growth.",
+        "explanation": "The speaker is explaining that despite there being a lot of talk about the benefits of zero interest rate policies (Zerp), their company did not significantly benefit from such policies. They are mentioning that even with the low-interest rates, which are meant to encourage borrowing and investment, their company's advantage from this policy was minimal."
+    },
+    {
+        "term": "Bridge Rounds",
+        "snippet": "And we did like crazy bridge rounds and all this stuff",
+        "definition": "A type of financing round used by startups or early-stage companies to raise funds in between more significant financing events, such as Series A and Series B funding rounds. Bridge rounds are typically quicker to secure and are often meant to 'bridge' the company until its next major funding round or until it becomes self-sustainable.",
+        "explanation": "The speaker is describing a period where they had to quickly secure smaller amounts of funding to support the company while they were waiting for larger, more significant investments or until the company could generate enough revenue to sustain itself."
+    },
+    {
+        "term": "Software Multiples",
+        "snippet": "One thing I'd love to talk about, especially with you here, Aaron, is software multiples",
+        "definition": "A valuation metric used to estimate the value of a software company relative to its revenue. Software multiples are calculated by comparing the company's market value (such as market cap or enterprise value) to its revenue, often used to assess whether a company is overvalued or undervalued in comparison to its peers.",
+        "explanation": "The discussion turns to assessing the value of software companies by comparing their total value to their income. This is a common method used to gauge if a software company's market price is high or low compared to how much money it makes."
+    },
+    {
+        "term": "Gross Margin",
+        "snippet": "You could have like a five or 10% margin company versus a 90, you know, 90% margin, 95% margin company",
+        "definition": "Gross Margin is a company's revenue minus its cost of goods sold, divided by revenue, expressed as a percentage. It effectively shows the percentage of revenue that exceeds the company\u2019s direct costs in producing the goods or services.",
+        "explanation": "The conversation highlights the difference between companies with low profit margins (5-10%) and those with high profit margins (90-95%). In simpler terms, some companies keep much more of each dollar they make after paying the direct costs of their products or services, while others keep far less."
+    },
+    {
+        "term": "Net Retention Rate",
+        "snippet": "somewhere in the hundred to hundred and 20% net retention rate",
+        "definition": "Net Retention Rate measures a company's effectiveness in retaining and growing its customer base, accounting for upgrades, downgrades, and churn. It is calculated as the current revenue from existing customers divided by the revenue from the same customers in a prior period, often shown as a percentage.",
+        "explanation": "They mention that their company retains and possibly grows its revenue from existing customers at a rate of 100 to 120%, meaning it earns the same or more money from the same group of customers over time. This indicates a strong ability to keep and expand their business with current clients."
+    },
+    {
+        "term": "Free Cash Flow Multiple",
+        "snippet": "If you go to the next slide, you know, we said, okay, let's look at it from a free cash flow multiple perspective",
+        "definition": "The valuation metric that compares a company's market capitalization to its free cash flow.",
+        "explanation": "This part of the podcast discusses a way to evaluate companies by comparing how much they are worth in the market to the cash they generate after covering their expenses and investments. It indicates how investors are assessing the value of a company based on its cash generation capabilities."
+    },
+    {
+        "term": "Median Free Cash Flow Margin",
+        "snippet": "This is the median free cash flow margin of the same basket as software companies",
+        "definition": "A profitability ratio that measures the median percentage of a company's revenue that is converted into free cash flow.",
+        "explanation": "Here, the speaker is talking about the typical amount of profit, in terms of available cash, that software companies make relative to their total income. This concept illustrates the average efficiency of these companies in generating usable cash from their operations."
+    },
+    {
+        "term": "Rule of 40",
+        "snippet": "everybody talks about the rule of 40  So this is a dispersion  This is a scatter plot just of all the software companies, you know, against that rule of 40",
+        "definition": "A financial metric used to evaluate a software company's performance by adding its growth rate and profit margin together. If the sum is 40% or higher, the company is considered to be performing well.",
+        "explanation": "When mentioning the 'rule of 40,' it's about a way of measuring how well software companies are doing by combining how fast they grow with how profitable they are. If these two factors added together are equal to or greater than 40%, it's a sign that the company is doing well. This section is discussing how companies compare against this rule."
+    },
+    {
+        "term": "Growth vs. Profitability",
+        "snippet": "how do you think your fellow CEOs and founders are balancing that profitability versus growth trade off?",
+        "definition": "The strategic decision companies make between focusing on increasing their size and market presence (growth) versus generating positive net income or profit (profitability).",
+        "explanation": "The discussion is about the challenge CEOs and founders face in deciding whether to focus on growing their company or on making it profitable. It's about finding the right balance between expanding the business and ensuring it makes more money than it spends."
+    },
+    {
+        "term": "Network Effects",
+        "snippet": "There's a lot of stickiness to the platform There's, there's some kind of network effects in some of these enterprise softwares",
+        "definition": "The phenomenon whereby a product or service gains additional value as more people use it.",
+        "explanation": "The speaker mentions that their platform becomes more valuable and appealing to users as more people start using it because of the interconnected nature of their enterprise software. This increases user retention and makes the platform harder to abandon."
+    },
+    {
+        "term": "Capital Efficiency",
+        "snippet": "Like, all of these very boring things actually just mean you can be more capital efficient and still grow at the same rate",
+        "definition": "How effectively a company uses its money to generate returns, measured by the speed and profitability with which it turns capital into revenue.",
+        "explanation": "The speaker suggests that various operational adjustments, although they might seem minor, can lead to better use of the company's funds. This means making more money without spending extra, or even spending less, while maintaining growth rates."
+    },
+    {
+        "term": "Dilution",
+        "snippet": "Yeah, I think, I think the, I just wish I could have negotiated maybe slightly better terms, you know, from a delusion standpoint",
+        "definition": "A reduction in the ownership percentage of a share of stock caused by the issuance of new shares.",
+        "explanation": "The speaker regrets not having negotiated in a way that would have minimized the reduction of existing shareholders' ownership percentages, which occurs when new shares are issued to raise more capital."
+    },
+    {
+        "term": "Grow at All Costs",
+        "snippet": "And, and, and, you know, if I could go back and maybe it would be incrementally more thoughtful on a bunch of those, but the the underlying element of of grow at all costs, get market share, you know, get to 100,000 customers, I think was pretty important",
+        "definition": "A business strategy focused on acquiring market share and growing revenues rapidly, often at the expense of short-term profits and sometimes sustainability.",
+        "explanation": "The speaker is indicating that in the past, there was a major focus on rapidly expanding the business and acquiring as many customers as possible without much regard to the costs or consequences. This approach was valued for its potential to capture a large portion of the market quickly."
+    },
+    {
+        "term": "Volatility of Multiples",
+        "snippet": "And so then, then that's why you have this, you know, crazy volatility of multiples, you know, versus either revenue or free cash flow",
+        "definition": "The fluctuation in the valuation multiples of companies, such as price-to-earnings ratios, due to various factors, making their stock prices more unpredictable.",
+        "explanation": "The speaker mentions that company valuations, based on multiples of revenue or free cash flow, have experienced significant fluctuations. This has made the market unpredictable and difficult for investors to navigate."
+    },
+    {
+        "term": "S1",
+        "snippet": "But ultimately, so I think, I think what we, you know, have is probably, you know, dozens, maybe hundreds of companies where they do have, they probably could not file an S1 today, you know, with with their current economics",
+        "definition": "A form filed by companies planning an Initial Public Offering (IPO) with the U.S. Securities and Exchange Commission, detailing their financial performance and business model.",
+        "explanation": "The discussion suggests that many companies might struggle to meet the financial disclosure requirements needed for an Initial Public Offering (IPO) under current economic conditions. This is because the form S1 requires detailed reporting of a company's financial health and business operations."
+    },
+    {
+        "term": "Soft Landing",
+        "snippet": "So I think, I think we've been afforded the amount of time partly because of the AI wave, you know, partly because of some kind of, you know, soft landing in the economy",
+        "definition": "A situation where an economy slows down but does not enter a recession, allowing for a more gradual adjustment to changing conditions. It is considered an ideal scenario during economic downturns.",
+        "explanation": "The person suggests that a mild economic slowdown, rather than a sharp downturn, has given companies more time to succeed than previously expected."
+    },
+    {
+        "term": "Operating Margin",
+        "snippet": "Your, your, your Gross Margin will ultimately determine your operating margin",
+        "definition": "A profitability metric that measures what percentage of a company\u2019s revenue is left over after paying for variable costs of production, such as wages and raw materials, before paying for interest or tax. It's expressed as a percentage of sales.",
+        "explanation": "The individual is emphasizing that the proportion of revenue remaining after direct costs of producing goods or services, which is gross margin, directly influences the profit percentage after covering operating expenses, indicating operational efficiency."
+    },
+    {
+        "term": "LTV:CAC",
+        "snippet": "Understanding your Gross Margin, managing to Gross Margin, I think is super important  You know, all forms of LTVCAC are probably good",
+        "definition": "Stands for Lifetime Value to Customer Acquisition Cost. It's a ratio that measures the total value that a company expects to earn from a customer over the entire relationship, compared against the cost to acquire that customer.",
+        "explanation": "The speaker is highlighting the importance of a business model that ensures the total revenue a business can expect from a customer throughout their relationship outweighs the cost of acquiring the customer, indicating a profitable strategy."
+    },
+    {
+        "term": "DSOs",
+        "snippet": "And so their DSOs are just slipping out",
+        "definition": "Days Sales Outstanding (DSOs) is a measure used by companies to calculate the average number of days it takes to collect payment after a sale has been made. It's a type of measure indicating how efficient a company is at collecting receivables from its customers.",
+        "explanation": "The discussion highlights that some companies, despite their significant revenues, lack efficient processes for collecting payments from customers, leading to an increase in the average number of days it takes to get paid for sales. This inefficiency could be improved by valuing and enhancing collections roles."
+    },
+    {
+        "term": "Rule of X",
+        "snippet": "Bessimer came out with an analysis last week  We have a chart on this  I want to pull up called Rule of X, right? ... what Rule of X does is it acknowledges something that all investors know to be true, which is growth and margin is not treated equal, right?",
+        "definition": "An updated financial concept or metric proposed to replace or enhance the existing Rule of 40 by acknowledging that growth and profit margins are not valued equally by investors.",
+        "explanation": "This part of the conversation introduces 'Rule of X,' an evolution of the Rule of 40, which takes into consideration the reality that not all aspects of a company's performance\u2014specifically, its growth and profit margins\u2014are valued equally by investors. It suggests a new way to evaluate companies, moving beyond the simplistic combination of profit and growth rates, to a more nuanced understanding that values growth and margin according to their actual impact on valuation, thereby providing a more accurate reflection of a company's financial health."
+    },
+    {
+        "term": "Discounting Back",
+        "snippet": "I'm applying a multiple to that and I'm discounting back to where we are today",
+        "definition": "The process of determining the present value of a payment or a stream of payments that will be received in the future, by using a specific discount rate to reflect the time value of money.",
+        "explanation": "The person speaking is describing how they calculate the current value of future cash flows by adjusting them to reflect today's value, taking into account the time value of money."
+    },
+    {
+        "term": "Moat",
+        "snippet": "Where is there going to be, you know, long, longstanding, you know, kind of moat or, or, you know, lack of a better term?",
+        "definition": "In business, a moat refers to a company's ability to maintain competitive advantages over its competitors to protect its long-term profits and market share from competing firms.",
+        "explanation": "The speaker is pondering on the strategic advantages, referred to as 'moats', that can safeguard a company's profitability and market position from competition over time."
+    },
+    {
+        "term": "Commoditization",
+        "snippet": "What part of this particular market gets commoditized?",
+        "definition": "The process by which goods that have economic value and are distinguishable in terms of attributes (uniqueness or brand) become simple commodities in the eyes of the market or consumers. This process leads to the reduction in differentiation and an emphasis on price over quality or features.",
+        "explanation": "This part of the conversation questions which segments of the market might become undifferentiated and compete primarily on price, rather than unique features or quality."
+    },
+    {
+        "term": "Quantum Analysis",
+        "snippet": "But I mean, literally at the peak of the madness, people were saying, oh, you know, you can do software investing, just using quantum analysis, right?",
+        "definition": "A hypothetical or jocular reference to using complex, possibly overly sophisticated, analysis methods for evaluating investments, possibly exaggerating for effect to critique simplistic investment strategies.",
+        "explanation": "The mention of 'quantum analysis' here appears to satirize the idea of applying extremely complex or theoretical analysis methods to investment decisions, potentially mocking overly simplified strategies during periods of investment mania."
+    },
+    {
+        "term": "IPO Filings",
+        "snippet": "But like, you know, I would see either IPO filings or, you know, analyst reports",
+        "definition": "Documents that a company files with securities regulators when it plans to go public and offer its shares for sale to the public for the first time. These filings provide detailed information about the company's business operations, financial condition, and management.",
+        "explanation": "The speaker mentions reviewing IPO filings, which are the official documents submitted for initial public offerings, giving insight into a company's financial health and business model as part of their investment analysis process."
+    },
+    {
+        "term": "Churn Rate",
+        "snippet": "...have a 90% retention rate or something, which means, which means that sales and marketing is required forever to refuel the customer base because of the churn rate of that product...",
+        "definition": "The percentage of a service's subscribers who cancel or do not renew their subscriptions within a certain time period. It's a critical metric for businesses that operate on a subscription model because it impacts revenue and customer retention strategies.",
+        "explanation": "The speaker is explaining that a company with a 90% retention rate must continuously invest in sales and marketing to replace customers who leave, due to the high churn rate. This means the company could struggle to sustain cash flow since it constantly needs to regain lost customers."
+    },
+    {
+        "term": "Product Market Fit",
+        "snippet": "...a lot of times the product market fit of the first product will get you, especially if really good product market fit will get you to a hundred million or two hundred million or some, some really large level...",
+        "definition": "A situation where a company's product or service meets a strong market demand. It's a critical stage for startups, indicating that they have successfully identified and are serving a significant need within their target market.",
+        "explanation": "The dialogue suggests that achieving a strong alignment between the product and market demands (product market fit) can significantly accelerate a company's growth, potentially bringing in hundreds of millions in revenue. However, this growth might eventually slow down, necessitating finding new ways to drive further growth."
+    },
+    {
+        "term": "Growth Curve",
+        "snippet": "And, and I think with McKinsey, you know, this, this analysis like 10 years ago, around around when your second act has to happen in your growth curve or else, or else you basically just peter out",
+        "definition": "A graphical representation showing how a company's revenue or profits grow over time. It can illustrate phases of rapid growth, stability, or decline.",
+        "explanation": "The speaker is discussing a strategic planning concept where, according to a McKinsey analysis, a company needs to innovate or expand its offerings (referred to as a \"second act\") at a certain point in its growth curve to avoid stagnation and ensure continued growth."
+    },
+    {
+        "term": "Platform Business",
+        "snippet": "And, and so our second act was really our platform business, which turned us from just being an application that you bought, you know, at an end user license to then you, you buy actually like our platform utilization",
+        "definition": "A business model that creates value by facilitating exchanges between two or more interdependent groups, usually consumers and producers.",
+        "explanation": "The speaker is saying that their company transitioned from selling individual applications to a platform-based model, where they now offer a broader ecosystem or platform of services. This shift served as their \"second act\" to spur further company growth."
+    },
+    {
+        "term": "Go-to-market Strategy",
+        "snippet": "But you do have to, there, there's definitely like a finesse thing to your, your product strategy, your go-to-market strategy, like we used to be like super skewer-oriented",
+        "definition": "The plan an organization executes to deliver its unique value proposition to customers and achieve competitive advantage. It includes the marketing, sales, distribution, and customer support needed to succeed in a target market.",
+        "explanation": "The speaker discusses the importance of having a refined product and go-to-market strategy. This strategy involves how a company markets and sells its products to customers, emphasizing the need to adapt and evolve these approaches over time to stay competitive."
+    },
+    {
+        "term": "Compounding Model",
+        "snippet": "we started studying the auto desks and adobies of the world, which is like, okay, well, what's a compounding model where you're growing 10 or 20% and your, your free cash flow is 30 to 40%",
+        "definition": "A financial model where the earnings or cash flows grow at a compounded rate over time. It represents reinvesting earnings or cash flows to generate more earnings or cash flows in the future, resulting in exponential growth over time.",
+        "explanation": "The speaker is discussing how some companies, like Autodesk and Adobe, have achieved sustained growth and profitability by reinvesting their earnings. This compounding model, which includes growth rates of 10 to 20% and high free cash flow margins of 30 to 40%, allows these companies to grow exponentially over decades."
+    },
+    {
+        "term": "Market Cap (Market Capitalization)",
+        "snippet": "everybody would love a 20 to 30 billion dollar market company",
+        "definition": "The total market value of a company's outstanding shares of stock. It is calculated by multiplying the company's share price by its total number of outstanding shares.",
+        "explanation": "The speaker mentions that any company would desire to have a market capitalization (market cap) between 20 and 30 billion dollars, illustrating the value and size of a highly successful business. Market cap is used to gauge a company's value, with a 20 to 30 billion dollar figure indicating a very large and successful company."
+    },
+    {
+        "term": "Cadence",
+        "snippet": "Have you, have you looked at like cadence? Not deep",
+        "definition": "In business, cadence refers to the rhythmic pattern in which a company operates, including its cycles of business activities, product development, meetings, and reporting. ",
+        "explanation": "The speaker expresses interest in the operational rhythm and strategies (cadence) of successful companies, suggesting that a focus on consistent, effective operational practices over time can lead to significant growth and market dominance."
+    },
+    {
+        "term": "Reversion to the Mean",
+        "snippet": "like all these things were up a lot, but it was really reversion to the mean",
+        "definition": "A theory suggesting that over time, stock prices and other financial metrics will return to their long-term average or mean. This theory is based on the assumption that the highs and lows are eventually evened out by the inherent mean.",
+        "explanation": "The discussion highlights how after significant increases in stock prices or other financial metrics, there is a tendency for these to return to their historical average levels. Essentially, after experiencing extreme growth, the expectation is for things to normalize, aligning closer with long-term trends."
+    },
+    {
+        "term": "Return Expectations",
+        "snippet": "like I think return expectations, you know, or more and kind of that 15 to 25 range",
+        "definition": "The anticipated percentage growth or loss that an investment is projected to generate over a specific time frame.",
+        "explanation": "The speaker is predicting that investment returns will likely fall within a 15% to 25% range in the upcoming year, moving away from extremely high targets, and setting a more realistic or normalized expectation for financial growth."
+    },
+    {
+        "term": "Earnings Per Share (EPS)",
+        "snippet": "They nearly tripled their earnings per employee, right? Their head count in Q3 of 22 was 87,000  This quarter they reported 67,000",
+        "definition": "Earnings per Share (EPS) is a key financial ratio calculated by dividing the total earnings (or profits) of a company by the number of outstanding shares of its common stock. The ratio provides investors with an indication of how much profit the company makes for each share of its stock.",
+        "explanation": "In the section mentioned, the term earnings per employee significantly increased due to a reduced headcount, which indirectly refers to efficiency in generating profits per share of stock. Here, the company managed to grow its profitability per employee (which can correlate with EPS improvement) by decreasing the number of employees while maintaining or even increasing earnings."
+    },
+    {
+        "term": "Monetization",
+        "snippet": "We're seeing their monetization also up a lot",
+        "definition": "Monetization refers to the process of converting something into money. In the context of businesses and digital products, it involves generating revenue from a particular asset, service, or product.",
+        "explanation": "This part of the podcast indicates that the company's ability to generate revenue from its products or services has significantly increased, showing successful strategies in converting their offerings into cash flow or profit."
+    },
+    {
+        "term": "Multiple of Earnings",
+        "snippet": "And if you apply a 20x multiple to that, that's about negative $120 a share that's being attributed to the valuation of meta as a result of their failure",
+        "definition": "A multiple of earnings is a valuation metric that compares a company's market value to its earnings. A common example would be applying a 'multiple' (like 20x) to a company's annual earnings to assess its valuation. The multiple reflects investors' expectations of future growth and profitability.",
+        "explanation": "The discussion covers the evaluation of a company's failure by using a 20x multiple of its losses, demonstrating a method to estimate the company's market valuation in relation to its earnings (or losses in this case). It illustrates how applying a multiple to earnings (or losses) directly impacts the perceived market valuation of the company."
+    },
+    {
+        "term": "Earnings per Employee",
+        "snippet": "And so Facebook is actually reduced headcount significantly and their earnings per employee is exploded",
+        "definition": "Earnings per employee is a financial metric that calculates the amount of net income a company generates per employee. It's a measure of how efficiently a company is utilizing its workforce to generate profits.",
+        "explanation": "When they discuss how Facebook has significantly reduced its workforce, yet the net income generated per remaining employee has dramatically increased, they're highlighting how Facebook has become much more efficient. This efficiency means that after reducing the number of employees, the profit generated by each remaining employee has grown, demonstrating effective management and operational efficiency."
+    },
+    {
+        "term": "Net New ARR",
+        "snippet": "On the left side, what you see is they actually set a record quarter, 15 billion in net new ARR across these three platforms",
+        "definition": "Net New Annual Recurring Revenue (ARR) is a metric used to measure the increase in annual recurring revenue from new customers, upgrades, or expansions, minus any revenue lost from cancellations or downgrades over a certain period.",
+        "explanation": "The discussion highlights that the three cloud providers achieved a record-setting increase of 15 billion dollars in annual recurring revenue (ARR) from new customers and expansions during a recent quarter. This indicates a significant growth in revenue from customers who are expected to continue paying on an annual basis."
+    },
+    {
+        "term": "Total Addressable Market (TAM)",
+        "snippet": "...this is a multi trillion dollar market",
+        "definition": "Total Addressable Market (TAM) refers to the overall revenue opportunity available or foreseen for a product or service, should it achieve 100% market share.",
+        "explanation": "The discussion implies that the market for cloud services, not including AI, is potentially worth trillions of dollars. This suggests an enormous opportunity for companies in the cloud service sector, indicating that the industry could continue to grow significantly."
+    },
+    {
+        "term": "Hyperscalers",
+        "snippet": "There are, if they're clear differences between the hyperscalers and the rest of software simply because a company can just move their, their core data center infrastructure from their, you know, their current co-lo and server providers to the cloud",
+        "definition": "Hyperscalers refer to large companies that provide cloud computing and storage services, capable of efficiently scaling their services up or down depending on the demand. Examples include Amazon Web Services (AWS), Google Cloud, and Microsoft Azure.",
+        "explanation": "The discussion highlights that there's a clear difference between big cloud service providers (hyperscalers) and other software companies. This is because businesses can shift their essential data handling and computing from traditional data centers to cloud services provided by these hyperscalers. As a result, these large cloud providers benefit significantly from such transitions, unlike other software or SaaS providers."
+    },
+    {
+        "term": "Reflexivity",
+        "snippet": "You know, perhaps one of the greatest sources of alpha for me and certainly my mentors in this business over a long period of time is this idea of positive and negative reflexivity",
+        "definition": "A concept where the patterns of investor behavior have the potential to influence markets and economic trends in a self-reinforcing manner.",
+        "explanation": "The discussion on 'positive and negative reflexivity' talks about how investors' outlooks\u2014either optimistic or pessimistic\u2014can influence financial markets. If people are hopeful, they invest more, possibly improving the market. If they are fearful, they might withdraw, worsening the situation."
+    },
+    {
+        "term": "Innovator's Dilemma",
+        "snippet": "So I've just loved to, you know, kick it around for a second  How if you're running Google today, right? And you're faced with this innovators dilemma around this like, like, what should they be doing here? Well above my pay grade, fortunately, I am just a lowly enterprise software  But, you know, so as a reminder, obviously, for everybody, like innovators dilemma is about business model, you know, difficulties  And we always think it's a technology problem  It's always about your business model  Doesn't make the new thing attractive to you  And so you avoid doing it until you get disrupted",
+        "definition": "A situation in which a company's current, successful product or service prevents it from adopting new technology or innovations that could make it more competitive. It suggests that success can make companies conservative, leading them to prioritize their current products over innovations that could redefine the market.",
+        "explanation": "They are discussing a phenomenon where a company may be doing well with current products or services (like Google with its advertising model based on search results), which can make it hesitant to adopt new technologies or innovations (like AI or ChatGPT). This reluctance could be due to fear that these new inventions might not align with the company's existing business model, causing them to potentially lose their leading position in the market. So, the conversation revolves around this challenge and whether Google should embrace these new technologies or stick with its established system despite the changing landscape."
+    },
+    {
+        "term": "Transactional Model",
+        "snippet": "You're not going to get to the same revenue per visit with a with a transaction model that you do with the ad model because you already mentioned cactel TV",
+        "definition": "A business model where revenue is generated from direct sales of products or services, rather than indirect sources like advertising.",
+        "explanation": "They're saying that a model where a company makes money by selling things directly won't bring in as much money per visitor as a model where the company makes money by showing ads. This is because in direct sales, the income comes from the actual sale of items or services."
+    },
+    {
+        "term": "Marketing Math",
+        "snippet": "People will pay using marketing math 40, 50, 60% of first purchase with a transactional integration",
+        "definition": "Calculations used in marketing to analyze the effectiveness and profitability of marketing campaigns, including the determination of the cost to acquire a customer and the customer's lifetime value.",
+        "explanation": "The phrase means that according to calculations done to figure out if marketing efforts are worthwhile, businesses are willing to spend a large portion of the revenue from the first purchase made through a transactional method on marketing activities."
+    },
+    {
+        "term": "Commission Model",
+        "snippet": "Well, I think to I think to Bill's point, if you look at the traditional commission models and I think the iconic example is in travel, the traditional commission model, for example, in hotels is 10%",
+        "definition": "A payment method where service providers earn a percentage of the selling price of goods or services they sell on behalf of another company or individual.",
+        "explanation": "The conversation highlights that in the travel industry, a common way businesses earn money is by charging a commission, specifically mentioned as 10% for hotel bookings. This means when a hotel room is sold, the service facilitating the sale (like a booking website) earns 10% of the sale price as their fee for providing the service."
+    },
+    {
+        "term": "Marginal Advertising Model",
+        "snippet": "But in a marginal advertising model where they're bidding up all the way to their gross profit on, in order to get that next customer to drive that growth rate",
+        "definition": "A pricing strategy in advertising where the cost of reaching an additional customer (the marginal customer) increases incrementally based on demand and competition, often leading advertisers to bid up to their gross profit to secure a spot.",
+        "explanation": "The dialogue explains that in competitive advertising environments, companies are willing to pay more and more, up to their total gross profit, to attract each additional customer. This is done to maintain or increase their growth rate, indicating a strategy where the cost of advertising is closely tied to the potential profit from acquiring new customers."
+    },
+    {
+        "term": "Cannibalize",
+        "snippet": "Those deals did not cannibalize their core business in the way that perplexity would cannibalize at least in part the core business at Google",
+        "definition": "When a new product or service significantly reduces the sales or market share of an existing product or service offered by the same company, leading to a reduction in overall company revenue.",
+        "explanation": "They are saying that unlike some company moves, Instagram and WhatsApp joining didn't hurt their main business like a similar situation might have hurt Google's main business. Basically, this comparison means that some business decisions can harm the company's original products or services, but in this case, it didn't happen."
+    },
+    {
+        "term": "Low Quality Revenue",
+        "snippet": "investments by Microsoft Amazon and video and Google into the big model businesses, Bill suggested, you know, at a very minimum, that's low quality revenue",
+        "definition": "Revenue that has a high likelihood of not being consistently recurring, or predictable over time, or comes with high costs relative to its generation, thereby offering less value to the business in the long term.",
+        "explanation": "They are discussing that the money made from major tech companies investing in big model businesses (like AI) might not be reliable or valuable in the long run. It means these investments might not result in steady, dependable income or may be costly, decreasing their usefulness for the company's future financial growth."
+    },
+    {
+        "term": "Distortion Effect",
+        "snippet": "So that's the distortion effect for, you know, either those rounds directly or for everybody else in the space",
+        "definition": "A situation where market forces (like supply and demand) are altered due to external factors, leading to prices or values that do not reflect the true economic fundamentals or valuations.",
+        "explanation": "The conversation points out how big tech companies participating in funding rounds can twist the market. This means that these companies, with their massive investments, can change how the market operates or how products are valued, in ways that don't necessarily align with the actual worth or success of the ventures they're investing in."
+    },
+    {
+        "term": "Acquisition Premium",
+        "snippet": "So that's the distortion effect for, you know, either those rounds directly or for everybody else in the space, it's like, yes, X company got a $20 billion valuation from a non-economic, you know, actor that does not make your your revenue or your multiple have any correlation to that because the acquisition premium or the ultimate cash flow of this company doesn't have any relationship to, to the credit model that just, you know, got a deal done",
+        "definition": "The additional amount that an acquirer pays above the market value of the target company during an acquisition, often to account for future growth, synergies, or to outbid competing offers.",
+        "explanation": "They're saying when a big company buys another company and pays more than what it's currently worth, hoping it will be worth even more later on, this price increase doesn't mean other companies are more valuable too. So, if a company is bought for a price way higher than its market value, it doesn't mean every company's value or revenue jumps up in the same way - it's a specific situation, not a market-wide change."
+    },
+    {
+        "term": "Distortion Effect",
+        "snippet": "So that's the distortion effect for, you know, either those rounds directly or for everybody else in the space, it's like, yes, X company got a $20 billion valuation from a non-economic, you know, actor that does not make your your revenue or your multiple have any correlation to that because the acquisition premium or the ultimate cash flow of this company doesn't have any relationship to, to the credit model that just, you know, got a deal done",
+        "definition": "A market phenomenon where the price or valuation of an asset does not accurately reflect its real value or underlying fundamentals, often caused by external factors or irrational market behavior.",
+        "explanation": "The discussion highlights a situation where a company's high valuation of $20 billion by an investor with peculiar motives (non-economic actor) doesn't mean another company's revenue or worth (represented by multiples) can be directly compared or linked to this valuation. This incorrectly indicates that such valuations can skew perceptions of what a company is truly worth, distinguishing it from practical financial metrics like cash flow or credits."
+    },
+    {
+        "term": "Secondary Transactions",
+        "snippet": "I think it's even trickier because based on what I've read, secondary transactions are kind of expected now in the hiring, in that world, that LLM competition world",
+        "definition": "Financial transactions involving the sale and purchase of existing investments or assets between investors, as opposed to the original issuance of securities by the issuing entity.",
+        "explanation": "The narrative points to an increase in transactions where existing investments are bought and sold among investors, particularly in competitive sectors like LLM (likely referring to large language models in AI), rather than the company itself raising new capital. This practice has become customary, especially when hiring talent, suggesting a shift in fundraising and investment strategies."
+    },
+    {
+        "term": "Capital as a weapon",
+        "snippet": "I mean, it's a bill, bill referred to it a little bit like the soft bank effect from 2021 where capital was used as a weapon of economic destruction",
+        "definition": "A strategy where massive amounts of money are invested aggressively to outcompete or eliminate competitors, often without regard for traditional measures of investment return or company sustainability.",
+        "explanation": "The comment references a situation (likened to \"the SoftBank effect\" of 2021) where substantial financial resources are deployed aggressively to dominate or destabilize the market, sidelining the genuine economic performance or viability of the businesses involved. This approach shifts the focus from product quality and company fundamentals to the sheer availability of capital."
+    },
+    {
+        "term": "Incumbents",
+        "snippet": "I probably prefer incumbents and software on the margin right now because it's so important to have the customer data in an environment that is already trusted is already secure",
+        "definition": "Established companies within an industry, often having a significant market share and long-standing customer relationships.",
+        "explanation": "They are discussing how established companies in the software industry might have an advantage in adopting AI because they already possess vital customer data in a secured environment. This makes it easier for them to implement new technologies without transferring data or altering existing workflows."
+    },
+    {
+        "term": "Knowledge Work",
+        "snippet": "figure out which parts of knowledge work can convert into tokens",
+        "definition": "Professional jobs that involve handling or using information, such as in the fields of law, accounting, software development, or education.",
+        "explanation": "The discussion points towards identifying segments of professional, information-handling jobs that could be transformed or digitized into a new form ('tokens'), opening up new opportunities for software applications."
+    },
+    {
+        "term": "Tokens",
+        "snippet": "figure out which parts of knowledge work can convert into tokens",
+        "definition": "In the context of blockchain and digital assets, tokens represent a unit of value issued by a project or company. They can embody various rights, such as participation in the network, access to certain services, or even a share in the project's earnings.",
+        "explanation": "The conversation suggests looking into segments of intellectual tasks that could be transformed into digital tokens. These areas might unveil new software opportunities previously unexplored, indicating that tokens could unlock potential revenue streams by digitizing aspects of knowledge work."
+    },
+    {
+        "term": "CapEx (Capital Expenditures)",
+        "snippet": "I actually have like converted, you know, CapEx dollars into this like thing",
+        "definition": "Capital expenditures are funds used by a company to acquire, upgrade, and maintain physical assets such as property, buildings, technology, or equipment.",
+        "explanation": "The speaker talks about how investment in physical assets, referred to as CapEx or Capital Expenditures, is transformed into a digital model or product. This expenditure is at risk due to the rapid obsolescence inherent in the technology sector, particularly in AI, where advancements can make previous investments obsolete overnight."
+    },
+    {
+        "term": "Super Cycles",
+        "snippet": "And it shows how we systematically underestimate the size of super cycles right over a reasonable period of time. When I think about what's going on here, of course, they show they went back and did some math against initial estimates and said, you know, super cycles are 40% underestimated at the start. So, you know, the initial forecast for the PC or the initial forecast for internet, 152 million users in 2000 ended up being 361 million users.",
+        "definition": "A super cycle is a prolonged period of strong, above-trend growth, often driven by widespread technological or economic innovation, leading to significant changes in industries and economies. These cycles are characterized by the broad adoption of new technologies or economic shifts that create substantial and sustained demand over a longer-than-usual period.",
+        "explanation": "The speaker is discussing how historical trends have shown that initial predictions often significantly underestimate the scale of technological or economic growth phases, called 'super cycles.' These are periods when a new technology or economic model leads to extensive and sustained growth, outpacing initial estimates. For example, the early forecasts for the number of internet users were much lower than the reality. This indicates that we tend to be cautious in our initial forecasts, not accounting for the extensive adoption and impact of new technologies over time."
+    },
+    {
+        "term": "Change Management",
+        "snippet": "But it's still going to take a year or two to do the change management of the workflow itself to swap in AI for where the, where the human was",
+        "definition": "The process, tools, and techniques to manage the people-side of change to achieve the required business outcome. It involves managing the transition from existing processes and practices to new ones, ensuring that organizational members are able to adapt effectively.",
+        "explanation": "The speaker is explaining that implementing AI in place of human tasks is not just about the technological upgrade. It involves a significant effort in change management, which means preparing and supporting employees to adapt to new workflows and technologies. This process can take a couple of years, indicating the importance of planning and support for the human aspects of technological changes."
+    },
+    {
+        "term": "Structural Problem",
+        "snippet": "So it's actually a huge structural problem",
+        "definition": "An issue inherent to the system or structure of an organization, market, or economic model that impedes progress, efficiency, or fairness. Structural problems often require fundamental changes to address.",
+        "explanation": "The speaker highlights a 'huge structural problem' with AI remembering individual users over long periods, indicating a limitation within the current AI models or frameworks that prevents them from becoming personalized digital assistants. This problem is deep-rooted in the way AI systems are designed and suggests that significant changes or advancements in AI are necessary to overcome this challenge."
+    },
+    {
+        "term": "Local Community Benefits",
+        "snippet": "It's just that we're not going to get the local community, you know, benefits",
+        "definition": "Advantages that accrue to the local population and economy when businesses operate within a particular area, including job creation, economic stimulation, and local tax contributions.",
+        "explanation": "The speaker expresses concern that hiring talent in other countries means the U.S. misses out on benefits for its local communities, such as economic growth and increased tax revenues, which would have been generated if the companies were based and operated locally."
+    },
+    {
+        "term": "National Strategic Advantage",
+        "snippet": "This is about national strategic advantage, right, that we have these things invented here, right?",
+        "definition": "National strategic advantage refers to the benefits a country gains from having a competitive edge in certain sectors or technologies over other countries, enhancing its position in global affairs.",
+        "explanation": "The podcast highlights the significance of maintaining a national strategic advantage through innovation and technology. It suggests that having cutting-edge developments, such as AI, within a country's borders grants it superiority in global competitiveness and security."
+    }
+]
